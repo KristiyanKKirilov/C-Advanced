@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net6.0\06. Reverse And Exclude.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net6.0\06. Reverse And Exclude.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net6.0\06. Reverse And Exclude.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net6.0\06. Reverse And Exclude.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net6.0\06. Reverse And Exclude.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net6.0\06. Reverse And Exclude.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net6.0\06. Reverse And Exclude.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net6.0\06. Reverse And Exclude.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net6.0\06. Reverse And Exclude.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net6.0\06. Reverse And Exclude.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net6.0\06. Reverse And Exclude.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net6.0\refint\06. Reverse And Exclude.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net6.0\06. Reverse And Exclude.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net6.0\06. Reverse And Exclude.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net6.0\ref\06. Reverse And Exclude.dll

@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.exe
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.deps.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\PlayersAndMonsters\obj\Debug\net6.0\refint\PlayersAndMonsters.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\PlayersAndMonsters\obj\Debug\net6.0\ref\PlayersAndMonsters.dll

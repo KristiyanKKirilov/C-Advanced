@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\net6.0\2. Squares in Matrix.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\net6.0\2. Squares in Matrix.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\net6.0\2. Squares in Matrix.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\net6.0\2. Squares in Matrix.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\net6.0\2. Squares in Matrix.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net6.0\refint\2. Squares in Matrix.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net6.0\ref\2. Squares in Matrix.dll

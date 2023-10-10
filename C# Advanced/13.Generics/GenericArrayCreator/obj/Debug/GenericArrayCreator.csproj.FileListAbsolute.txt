@@ -1,0 +1,8 @@
+C:\Visual Studio Projects\Implementing Stack and Queue\GenericArrayCreator\bin\Debug\GenericArrayCreator.exe.config
+C:\Visual Studio Projects\Implementing Stack and Queue\GenericArrayCreator\bin\Debug\GenericArrayCreator.exe
+C:\Visual Studio Projects\Implementing Stack and Queue\GenericArrayCreator\bin\Debug\GenericArrayCreator.pdb
+C:\Visual Studio Projects\Implementing Stack and Queue\GenericArrayCreator\obj\Debug\GenericArrayCreator.csproj.AssemblyReference.cache
+C:\Visual Studio Projects\Implementing Stack and Queue\GenericArrayCreator\obj\Debug\GenericArrayCreator.csproj.SuggestedBindingRedirects.cache
+C:\Visual Studio Projects\Implementing Stack and Queue\GenericArrayCreator\obj\Debug\GenericArrayCreator.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects\Implementing Stack and Queue\GenericArrayCreator\obj\Debug\GenericArrayCreator.exe
+C:\Visual Studio Projects\Implementing Stack and Queue\GenericArrayCreator\obj\Debug\GenericArrayCreator.pdb

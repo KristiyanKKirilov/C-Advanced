@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\net6.0\PersonInfo.exe
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\net6.0\PersonInfo.deps.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\net6.0\PersonInfo.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\net6.0\PersonInfo.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\net6.0\PersonInfo.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\net6.0\PersonInfo.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\net6.0\PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\net6.0\PersonInfo.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\net6.0\PersonInfo.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\net6.0\refint\PersonInfo.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\net6.0\PersonInfo.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\net6.0\PersonInfo.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\net6.0\ref\PersonInfo.dll

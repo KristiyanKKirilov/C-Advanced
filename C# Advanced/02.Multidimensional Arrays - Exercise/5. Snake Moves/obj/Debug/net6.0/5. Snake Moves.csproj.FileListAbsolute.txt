@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\net6.0\5. Snake Moves.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\net6.0\5. Snake Moves.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\net6.0\5. Snake Moves.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\net6.0\5. Snake Moves.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\net6.0\5. Snake Moves.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net6.0\5. Snake Moves.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net6.0\5. Snake Moves.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net6.0\5. Snake Moves.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net6.0\5. Snake Moves.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net6.0\5. Snake Moves.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net6.0\5. Snake Moves.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net6.0\refint\5. Snake Moves.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net6.0\5. Snake Moves.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net6.0\5. Snake Moves.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net6.0\ref\5. Snake Moves.dll

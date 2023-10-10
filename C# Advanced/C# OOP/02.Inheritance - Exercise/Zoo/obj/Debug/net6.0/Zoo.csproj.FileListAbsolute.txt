@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\Zoo\bin\Debug\net6.0\Zoo.exe
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\Zoo\bin\Debug\net6.0\Zoo.deps.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\Zoo\bin\Debug\net6.0\Zoo.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\Zoo\bin\Debug\net6.0\Zoo.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\Zoo\bin\Debug\net6.0\Zoo.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\Zoo\obj\Debug\net6.0\Zoo.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\Zoo\obj\Debug\net6.0\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\Zoo\obj\Debug\net6.0\Zoo.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\Zoo\obj\Debug\net6.0\Zoo.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\Zoo\obj\Debug\net6.0\Zoo.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\Zoo\obj\Debug\net6.0\Zoo.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\Zoo\obj\Debug\net6.0\refint\Zoo.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\Zoo\obj\Debug\net6.0\Zoo.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\Zoo\obj\Debug\net6.0\Zoo.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\Zoo\obj\Debug\net6.0\ref\Zoo.dll

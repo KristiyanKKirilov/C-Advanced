@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\07.Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\net6.0\03. Count Uppercase Words.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\07.Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\net6.0\03. Count Uppercase Words.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\07.Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\net6.0\03. Count Uppercase Words.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\07.Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\net6.0\03. Count Uppercase Words.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\07.Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\net6.0\03. Count Uppercase Words.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\07.Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\07.Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\07.Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\07.Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\07.Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\07.Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\07.Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net6.0\refint\03. Count Uppercase Words.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\07.Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\07.Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\07.Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net6.0\ref\03. Count Uppercase Words.dll

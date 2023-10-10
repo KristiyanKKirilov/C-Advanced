@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\MergeSort\obj\Debug\net6.0\MergeSort.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\MergeSort\obj\Debug\net6.0\MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\MergeSort\obj\Debug\net6.0\MergeSort.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\MergeSort\obj\Debug\net6.0\MergeSort.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\MergeSort\obj\Debug\net6.0\MergeSort.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\MergeSort\bin\Debug\net6.0\MergeSort.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\MergeSort\bin\Debug\net6.0\MergeSort.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\MergeSort\bin\Debug\net6.0\MergeSort.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\MergeSort\bin\Debug\net6.0\MergeSort.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\MergeSort\bin\Debug\net6.0\MergeSort.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\MergeSort\obj\Debug\net6.0\MergeSort.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\MergeSort\obj\Debug\net6.0\refint\MergeSort.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\MergeSort\obj\Debug\net6.0\MergeSort.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\MergeSort\obj\Debug\net6.0\MergeSort.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\MergeSort\obj\Debug\net6.0\ref\MergeSort.dll

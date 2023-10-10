@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# OOP\11.ReflectionAndAttributes - Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\11.ReflectionAndAttributes - Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# OOP\11.ReflectionAndAttributes - Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\11.ReflectionAndAttributes - Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# OOP\11.ReflectionAndAttributes - Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\11.ReflectionAndAttributes - Exercise\ValidationAttributes\bin\Debug\net6.0\ValidationAttributes.exe
+E:\Visual Studio Projects\Soft Uni\C# OOP\11.ReflectionAndAttributes - Exercise\ValidationAttributes\bin\Debug\net6.0\ValidationAttributes.deps.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\11.ReflectionAndAttributes - Exercise\ValidationAttributes\bin\Debug\net6.0\ValidationAttributes.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\11.ReflectionAndAttributes - Exercise\ValidationAttributes\bin\Debug\net6.0\ValidationAttributes.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\11.ReflectionAndAttributes - Exercise\ValidationAttributes\bin\Debug\net6.0\ValidationAttributes.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\11.ReflectionAndAttributes - Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\11.ReflectionAndAttributes - Exercise\ValidationAttributes\obj\Debug\net6.0\refint\ValidationAttributes.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\11.ReflectionAndAttributes - Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\11.ReflectionAndAttributes - Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\11.ReflectionAndAttributes - Exercise\ValidationAttributes\obj\Debug\net6.0\ref\ValidationAttributes.dll

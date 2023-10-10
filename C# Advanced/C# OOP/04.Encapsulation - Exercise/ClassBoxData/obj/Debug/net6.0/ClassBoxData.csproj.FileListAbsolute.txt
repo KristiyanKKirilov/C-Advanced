@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\ClassBoxData\bin\Debug\net6.0\ClassBoxData.exe
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\ClassBoxData\bin\Debug\net6.0\ClassBoxData.deps.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\ClassBoxData\bin\Debug\net6.0\ClassBoxData.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\ClassBoxData\bin\Debug\net6.0\ClassBoxData.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\ClassBoxData\bin\Debug\net6.0\ClassBoxData.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\ClassBoxData\obj\Debug\net6.0\refint\ClassBoxData.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\ClassBoxData\obj\Debug\net6.0\ref\ClassBoxData.dll

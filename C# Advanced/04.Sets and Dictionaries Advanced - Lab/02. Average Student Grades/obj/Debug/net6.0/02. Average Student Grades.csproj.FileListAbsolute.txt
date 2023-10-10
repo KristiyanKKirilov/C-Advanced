@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net6.0\02. Average Student Grades.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net6.0\02. Average Student Grades.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net6.0\02. Average Student Grades.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net6.0\02. Average Student Grades.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net6.0\02. Average Student Grades.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\02. Average Student Grades.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\02. Average Student Grades.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\02. Average Student Grades.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\02. Average Student Grades.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\02. Average Student Grades.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\02. Average Student Grades.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\refint\02. Average Student Grades.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\02. Average Student Grades.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\02. Average Student Grades.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\ref\02. Average Student Grades.dll

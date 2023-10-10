@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\CustomEnumerator\bin\Debug\net6.0\CustomEnumerator.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\CustomEnumerator\bin\Debug\net6.0\CustomEnumerator.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\CustomEnumerator\bin\Debug\net6.0\CustomEnumerator.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\CustomEnumerator\bin\Debug\net6.0\CustomEnumerator.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\CustomEnumerator\bin\Debug\net6.0\CustomEnumerator.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\CustomEnumerator\obj\Debug\net6.0\CustomEnumerator.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\CustomEnumerator\obj\Debug\net6.0\CustomEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\CustomEnumerator\obj\Debug\net6.0\CustomEnumerator.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\CustomEnumerator\obj\Debug\net6.0\CustomEnumerator.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\CustomEnumerator\obj\Debug\net6.0\CustomEnumerator.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\CustomEnumerator\obj\Debug\net6.0\CustomEnumerator.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\CustomEnumerator\obj\Debug\net6.0\refint\CustomEnumerator.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\CustomEnumerator\obj\Debug\net6.0\CustomEnumerator.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\CustomEnumerator\obj\Debug\net6.0\CustomEnumerator.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\CustomEnumerator\obj\Debug\net6.0\ref\CustomEnumerator.dll

@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\Temple of Doom(3)\bin\Debug\net6.0\Temple of Doom(3).exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\Temple of Doom(3)\bin\Debug\net6.0\Temple of Doom(3).deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\Temple of Doom(3)\bin\Debug\net6.0\Temple of Doom(3).runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\Temple of Doom(3)\bin\Debug\net6.0\Temple of Doom(3).dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\Temple of Doom(3)\bin\Debug\net6.0\Temple of Doom(3).pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\Temple of Doom(3)\obj\Debug\net6.0\Temple of Doom(3).csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\Temple of Doom(3)\obj\Debug\net6.0\Temple of Doom(3).GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\Temple of Doom(3)\obj\Debug\net6.0\Temple of Doom(3).AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\Temple of Doom(3)\obj\Debug\net6.0\Temple of Doom(3).AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\Temple of Doom(3)\obj\Debug\net6.0\Temple of Doom(3).csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\Temple of Doom(3)\obj\Debug\net6.0\Temple of Doom(3).dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\Temple of Doom(3)\obj\Debug\net6.0\refint\Temple of Doom(3).dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\Temple of Doom(3)\obj\Debug\net6.0\Temple of Doom(3).pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\Temple of Doom(3)\obj\Debug\net6.0\Temple of Doom(3).genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\Temple of Doom(3)\obj\Debug\net6.0\ref\Temple of Doom(3).dll

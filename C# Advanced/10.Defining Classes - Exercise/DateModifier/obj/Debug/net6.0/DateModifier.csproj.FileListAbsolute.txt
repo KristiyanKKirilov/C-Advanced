@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\DateModifier\bin\Debug\net6.0\DateModifier.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\DateModifier\bin\Debug\net6.0\DateModifier.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\DateModifier\bin\Debug\net6.0\DateModifier.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\DateModifier\bin\Debug\net6.0\DateModifier.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\DateModifier\bin\Debug\net6.0\DateModifier.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\DateModifier\obj\Debug\net6.0\DateModifier.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\DateModifier\obj\Debug\net6.0\DateModifier.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\DateModifier\obj\Debug\net6.0\DateModifier.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\DateModifier\obj\Debug\net6.0\DateModifier.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\DateModifier\obj\Debug\net6.0\DateModifier.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\DateModifier\obj\Debug\net6.0\DateModifier.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\DateModifier\obj\Debug\net6.0\refint\DateModifier.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\DateModifier\obj\Debug\net6.0\DateModifier.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\DateModifier\obj\Debug\net6.0\DateModifier.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\DateModifier\obj\Debug\net6.0\ref\DateModifier.dll

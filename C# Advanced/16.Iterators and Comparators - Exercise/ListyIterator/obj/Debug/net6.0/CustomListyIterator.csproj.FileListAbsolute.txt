@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\ListyIterator\bin\Debug\net6.0\CustomListyIterator.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\ListyIterator\bin\Debug\net6.0\CustomListyIterator.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\ListyIterator\bin\Debug\net6.0\CustomListyIterator.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\ListyIterator\bin\Debug\net6.0\CustomListyIterator.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\ListyIterator\bin\Debug\net6.0\CustomListyIterator.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\ListyIterator\obj\Debug\net6.0\CustomListyIterator.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\ListyIterator\obj\Debug\net6.0\CustomListyIterator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\ListyIterator\obj\Debug\net6.0\CustomListyIterator.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\ListyIterator\obj\Debug\net6.0\CustomListyIterator.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\ListyIterator\obj\Debug\net6.0\CustomListyIterator.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\ListyIterator\obj\Debug\net6.0\CustomListyIterator.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\ListyIterator\obj\Debug\net6.0\refint\CustomListyIterator.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\ListyIterator\obj\Debug\net6.0\CustomListyIterator.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\ListyIterator\obj\Debug\net6.0\CustomListyIterator.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\ListyIterator\obj\Debug\net6.0\ref\CustomListyIterator.dll

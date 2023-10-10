@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net6.0\7. Pascal Triangle.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net6.0\7. Pascal Triangle.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net6.0\7. Pascal Triangle.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net6.0\7. Pascal Triangle.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net6.0\7. Pascal Triangle.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\refint\7. Pascal Triangle.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\ref\7. Pascal Triangle.dll

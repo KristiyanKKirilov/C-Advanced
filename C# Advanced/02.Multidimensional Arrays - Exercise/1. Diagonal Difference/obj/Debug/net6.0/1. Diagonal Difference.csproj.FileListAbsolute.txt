@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\net6.0\1. Diagonal Difference.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\net6.0\1. Diagonal Difference.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\net6.0\1. Diagonal Difference.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\net6.0\1. Diagonal Difference.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\net6.0\1. Diagonal Difference.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net6.0\1. Diagonal Difference.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net6.0\1. Diagonal Difference.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net6.0\1. Diagonal Difference.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net6.0\1. Diagonal Difference.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net6.0\1. Diagonal Difference.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net6.0\1. Diagonal Difference.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net6.0\refint\1. Diagonal Difference.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net6.0\1. Diagonal Difference.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net6.0\1. Diagonal Difference.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net6.0\ref\1. Diagonal Difference.dll

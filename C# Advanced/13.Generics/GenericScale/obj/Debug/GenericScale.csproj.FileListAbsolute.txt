@@ -1,0 +1,8 @@
+C:\Visual Studio Projects\Implementing Stack and Queue\GenericScale\bin\Debug\GenericScale.exe.config
+C:\Visual Studio Projects\Implementing Stack and Queue\GenericScale\bin\Debug\GenericScale.exe
+C:\Visual Studio Projects\Implementing Stack and Queue\GenericScale\bin\Debug\GenericScale.pdb
+C:\Visual Studio Projects\Implementing Stack and Queue\GenericScale\obj\Debug\GenericScale.csproj.AssemblyReference.cache
+C:\Visual Studio Projects\Implementing Stack and Queue\GenericScale\obj\Debug\GenericScale.csproj.SuggestedBindingRedirects.cache
+C:\Visual Studio Projects\Implementing Stack and Queue\GenericScale\obj\Debug\GenericScale.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects\Implementing Stack and Queue\GenericScale\obj\Debug\GenericScale.exe
+C:\Visual Studio Projects\Implementing Stack and Queue\GenericScale\obj\Debug\GenericScale.pdb

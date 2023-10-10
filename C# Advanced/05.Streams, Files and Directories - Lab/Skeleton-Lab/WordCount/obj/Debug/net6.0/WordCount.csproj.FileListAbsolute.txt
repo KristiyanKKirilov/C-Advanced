@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\WordCount\bin\Debug\net6.0\WordCount.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\WordCount\bin\Debug\net6.0\WordCount.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\WordCount\bin\Debug\net6.0\WordCount.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\WordCount\bin\Debug\net6.0\WordCount.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\WordCount\bin\Debug\net6.0\WordCount.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\refint\WordCount.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\ref\WordCount.dll

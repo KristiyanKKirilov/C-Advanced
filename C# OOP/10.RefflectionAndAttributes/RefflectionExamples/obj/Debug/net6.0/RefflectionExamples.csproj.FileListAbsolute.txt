@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\RefflectionExamples\bin\Debug\net6.0\RefflectionExamples.exe
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\RefflectionExamples\bin\Debug\net6.0\RefflectionExamples.deps.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\RefflectionExamples\bin\Debug\net6.0\RefflectionExamples.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\RefflectionExamples\bin\Debug\net6.0\RefflectionExamples.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\RefflectionExamples\bin\Debug\net6.0\RefflectionExamples.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\RefflectionExamples\obj\Debug\net6.0\RefflectionExamples.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\RefflectionExamples\obj\Debug\net6.0\RefflectionExamples.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\RefflectionExamples\obj\Debug\net6.0\RefflectionExamples.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\RefflectionExamples\obj\Debug\net6.0\RefflectionExamples.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\RefflectionExamples\obj\Debug\net6.0\RefflectionExamples.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\RefflectionExamples\obj\Debug\net6.0\RefflectionExamples.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\RefflectionExamples\obj\Debug\net6.0\refint\RefflectionExamples.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\RefflectionExamples\obj\Debug\net6.0\RefflectionExamples.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\RefflectionExamples\obj\Debug\net6.0\RefflectionExamples.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\RefflectionExamples\obj\Debug\net6.0\ref\RefflectionExamples.dll

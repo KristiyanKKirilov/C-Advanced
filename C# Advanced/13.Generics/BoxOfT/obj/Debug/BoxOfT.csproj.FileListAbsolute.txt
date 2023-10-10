@@ -1,0 +1,8 @@
+C:\Visual Studio Projects\Implementing Stack and Queue\BoxOfT\bin\Debug\BoxOfT.exe.config
+C:\Visual Studio Projects\Implementing Stack and Queue\BoxOfT\bin\Debug\BoxOfT.exe
+C:\Visual Studio Projects\Implementing Stack and Queue\BoxOfT\bin\Debug\BoxOfT.pdb
+C:\Visual Studio Projects\Implementing Stack and Queue\BoxOfT\obj\Debug\BoxOfT.csproj.AssemblyReference.cache
+C:\Visual Studio Projects\Implementing Stack and Queue\BoxOfT\obj\Debug\BoxOfT.csproj.SuggestedBindingRedirects.cache
+C:\Visual Studio Projects\Implementing Stack and Queue\BoxOfT\obj\Debug\BoxOfT.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects\Implementing Stack and Queue\BoxOfT\obj\Debug\BoxOfT.exe
+C:\Visual Studio Projects\Implementing Stack and Queue\BoxOfT\obj\Debug\BoxOfT.pdb

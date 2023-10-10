@@ -1,0 +1,17 @@
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\JsonSerialiseExample\bin\Debug\net6.0\JsonSerialiseExample.exe
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\JsonSerialiseExample\bin\Debug\net6.0\JsonSerialiseExample.deps.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\JsonSerialiseExample\bin\Debug\net6.0\JsonSerialiseExample.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\JsonSerialiseExample\bin\Debug\net6.0\JsonSerialiseExample.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\JsonSerialiseExample\bin\Debug\net6.0\JsonSerialiseExample.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\JsonSerialiseExample\obj\Debug\net6.0\JsonSerialiseExample.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\JsonSerialiseExample\obj\Debug\net6.0\JsonSerialiseExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\JsonSerialiseExample\obj\Debug\net6.0\JsonSerialiseExample.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\JsonSerialiseExample\obj\Debug\net6.0\JsonSerialiseExample.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\JsonSerialiseExample\obj\Debug\net6.0\JsonSerialiseExample.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\JsonSerialiseExample\obj\Debug\net6.0\JsonSerialiseExample.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\JsonSerialiseExample\obj\Debug\net6.0\refint\JsonSerialiseExample.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\JsonSerialiseExample\obj\Debug\net6.0\JsonSerialiseExample.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\JsonSerialiseExample\obj\Debug\net6.0\JsonSerialiseExample.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\JsonSerialiseExample\obj\Debug\net6.0\ref\JsonSerialiseExample.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\JsonSerialiseExample\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\JsonSerialiseExample\obj\Debug\net6.0\JsonSerialiseExample.csproj.CopyComplete

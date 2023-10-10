@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\Demo\bin\Debug\net6.0\Demo.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\Demo\bin\Debug\net6.0\Demo.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\Demo\bin\Debug\net6.0\Demo.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\Demo\bin\Debug\net6.0\Demo.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\Demo\bin\Debug\net6.0\Demo.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\Demo\obj\Debug\net6.0\Demo.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\Demo\obj\Debug\net6.0\Demo.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\Demo\obj\Debug\net6.0\refint\Demo.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\Demo\obj\Debug\net6.0\Demo.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\Demo\obj\Debug\net6.0\Demo.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\Demo\obj\Debug\net6.0\ref\Demo.dll

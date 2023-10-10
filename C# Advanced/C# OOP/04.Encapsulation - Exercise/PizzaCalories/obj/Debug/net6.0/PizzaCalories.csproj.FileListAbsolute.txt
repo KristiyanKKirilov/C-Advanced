@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\PizzaCalories\bin\Debug\net6.0\PizzaCalories.exe
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\PizzaCalories\bin\Debug\net6.0\PizzaCalories.deps.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\PizzaCalories\bin\Debug\net6.0\PizzaCalories.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\PizzaCalories\bin\Debug\net6.0\PizzaCalories.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\PizzaCalories\bin\Debug\net6.0\PizzaCalories.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\PizzaCalories\obj\Debug\net6.0\PizzaCalories.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\PizzaCalories\obj\Debug\net6.0\PizzaCalories.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\PizzaCalories\obj\Debug\net6.0\PizzaCalories.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\PizzaCalories\obj\Debug\net6.0\PizzaCalories.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\PizzaCalories\obj\Debug\net6.0\PizzaCalories.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\PizzaCalories\obj\Debug\net6.0\PizzaCalories.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\PizzaCalories\obj\Debug\net6.0\refint\PizzaCalories.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\PizzaCalories\obj\Debug\net6.0\PizzaCalories.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\PizzaCalories\obj\Debug\net6.0\PizzaCalories.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\PizzaCalories\obj\Debug\net6.0\ref\PizzaCalories.dll

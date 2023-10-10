@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\bin\Debug\net6.0\04. Product Shop.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\bin\Debug\net6.0\04. Product Shop.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\bin\Debug\net6.0\04. Product Shop.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\bin\Debug\net6.0\04. Product Shop.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\bin\Debug\net6.0\04. Product Shop.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net6.0\04. Product Shop.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net6.0\04. Product Shop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net6.0\04. Product Shop.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net6.0\04. Product Shop.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net6.0\04. Product Shop.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net6.0\04. Product Shop.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net6.0\refint\04. Product Shop.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net6.0\04. Product Shop.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net6.0\04. Product Shop.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net6.0\ref\04. Product Shop.dll

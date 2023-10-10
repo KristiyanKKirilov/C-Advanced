@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\LineNumbers\bin\Debug\net6.0\LineNumbers.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\LineNumbers\bin\Debug\net6.0\LineNumbers.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\LineNumbers\bin\Debug\net6.0\LineNumbers.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\LineNumbers\bin\Debug\net6.0\LineNumbers.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\LineNumbers\bin\Debug\net6.0\LineNumbers.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\LineNumbers\obj\Debug\net6.0\LineNumbers.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\LineNumbers\obj\Debug\net6.0\LineNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\LineNumbers\obj\Debug\net6.0\LineNumbers.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\LineNumbers\obj\Debug\net6.0\LineNumbers.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\LineNumbers\obj\Debug\net6.0\LineNumbers.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\LineNumbers\obj\Debug\net6.0\LineNumbers.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\LineNumbers\obj\Debug\net6.0\refint\LineNumbers.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\LineNumbers\obj\Debug\net6.0\LineNumbers.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\LineNumbers\obj\Debug\net6.0\LineNumbers.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\LineNumbers\obj\Debug\net6.0\ref\LineNumbers.dll

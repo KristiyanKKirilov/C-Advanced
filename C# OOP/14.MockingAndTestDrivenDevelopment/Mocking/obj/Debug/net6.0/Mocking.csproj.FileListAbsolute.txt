@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Mocking\bin\Debug\net6.0\Mocking.exe
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Mocking\bin\Debug\net6.0\Mocking.deps.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Mocking\bin\Debug\net6.0\Mocking.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Mocking\bin\Debug\net6.0\Mocking.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Mocking\bin\Debug\net6.0\Mocking.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Mocking\obj\Debug\net6.0\Mocking.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Mocking\obj\Debug\net6.0\Mocking.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Mocking\obj\Debug\net6.0\Mocking.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Mocking\obj\Debug\net6.0\Mocking.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Mocking\obj\Debug\net6.0\Mocking.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Mocking\obj\Debug\net6.0\Mocking.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Mocking\obj\Debug\net6.0\refint\Mocking.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Mocking\obj\Debug\net6.0\Mocking.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Mocking\obj\Debug\net6.0\Mocking.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Mocking\obj\Debug\net6.0\ref\Mocking.dll

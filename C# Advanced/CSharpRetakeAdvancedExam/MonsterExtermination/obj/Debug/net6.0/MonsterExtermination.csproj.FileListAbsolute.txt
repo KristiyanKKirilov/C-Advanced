@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\MonsterExtermination\bin\Debug\net6.0\MonsterExtermination.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\MonsterExtermination\bin\Debug\net6.0\MonsterExtermination.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\MonsterExtermination\bin\Debug\net6.0\MonsterExtermination.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\MonsterExtermination\bin\Debug\net6.0\MonsterExtermination.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\MonsterExtermination\bin\Debug\net6.0\MonsterExtermination.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\MonsterExtermination\obj\Debug\net6.0\MonsterExtermination.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\MonsterExtermination\obj\Debug\net6.0\MonsterExtermination.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\MonsterExtermination\obj\Debug\net6.0\MonsterExtermination.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\MonsterExtermination\obj\Debug\net6.0\MonsterExtermination.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\MonsterExtermination\obj\Debug\net6.0\MonsterExtermination.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\MonsterExtermination\obj\Debug\net6.0\MonsterExtermination.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\MonsterExtermination\obj\Debug\net6.0\refint\MonsterExtermination.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\MonsterExtermination\obj\Debug\net6.0\MonsterExtermination.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\MonsterExtermination\obj\Debug\net6.0\MonsterExtermination.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\MonsterExtermination\obj\Debug\net6.0\ref\MonsterExtermination.dll

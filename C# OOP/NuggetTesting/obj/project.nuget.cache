@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iLDht8JpgGvjscNba/UARtV6fgsz9xY/32YXY9DIXO2PXq//GyO0nbY0o7nycmfCeHe+oUl6OXwBNiv89H4T+g==",
+  "success": true,
+  "projectFilePath": "E:\\Visual Studio Projects\\Soft Uni\\C# OOP\\NuggetTesting\\NuggetTesting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ABC\\.nuget\\packages\\logforu.core\\1.0.0\\logforu.core.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

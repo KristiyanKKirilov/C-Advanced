@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\CarSalesman\bin\Debug\net6.0\CarSalesman.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\CarSalesman\bin\Debug\net6.0\CarSalesman.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\CarSalesman\bin\Debug\net6.0\CarSalesman.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\CarSalesman\bin\Debug\net6.0\CarSalesman.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\CarSalesman\bin\Debug\net6.0\CarSalesman.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\CarSalesman\obj\Debug\net6.0\CarSalesman.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\CarSalesman\obj\Debug\net6.0\CarSalesman.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\CarSalesman\obj\Debug\net6.0\CarSalesman.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\CarSalesman\obj\Debug\net6.0\CarSalesman.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\CarSalesman\obj\Debug\net6.0\CarSalesman.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\CarSalesman\obj\Debug\net6.0\CarSalesman.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\CarSalesman\obj\Debug\net6.0\refint\CarSalesman.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\CarSalesman\obj\Debug\net6.0\CarSalesman.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\CarSalesman\obj\Debug\net6.0\CarSalesman.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\CarSalesman\obj\Debug\net6.0\ref\CarSalesman.dll

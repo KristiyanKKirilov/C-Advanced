@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\CopyBinaryFile\obj\Debug\net6.0\refint\CopyBinaryFile.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\CopyBinaryFile\obj\Debug\net6.0\ref\CopyBinaryFile.dll

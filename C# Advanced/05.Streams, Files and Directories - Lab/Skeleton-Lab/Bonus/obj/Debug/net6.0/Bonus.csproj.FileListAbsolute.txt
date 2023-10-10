@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\Bonus\bin\Debug\net6.0\Bonus.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\Bonus\bin\Debug\net6.0\Bonus.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\Bonus\bin\Debug\net6.0\Bonus.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\Bonus\bin\Debug\net6.0\Bonus.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\Bonus\bin\Debug\net6.0\Bonus.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\Bonus\obj\Debug\net6.0\Bonus.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\Bonus\obj\Debug\net6.0\Bonus.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\Bonus\obj\Debug\net6.0\Bonus.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\Bonus\obj\Debug\net6.0\Bonus.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\Bonus\obj\Debug\net6.0\Bonus.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\Bonus\obj\Debug\net6.0\Bonus.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\Bonus\obj\Debug\net6.0\refint\Bonus.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\Bonus\obj\Debug\net6.0\Bonus.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\Bonus\obj\Debug\net6.0\Bonus.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\Bonus\obj\Debug\net6.0\ref\Bonus.dll

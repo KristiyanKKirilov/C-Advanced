@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\01. Action Print\bin\Debug\net6.0\01. Action Print.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\01. Action Print\bin\Debug\net6.0\01. Action Print.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\01. Action Print\bin\Debug\net6.0\01. Action Print.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\01. Action Print\bin\Debug\net6.0\01. Action Print.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\01. Action Print\bin\Debug\net6.0\01. Action Print.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\refint\01. Action Print.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\ref\01. Action Print.dll

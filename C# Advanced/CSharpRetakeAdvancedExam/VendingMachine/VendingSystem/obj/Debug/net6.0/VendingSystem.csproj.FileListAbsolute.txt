@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\VendingMachine\VendingSystem\bin\Debug\net6.0\VendingSystem.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\VendingMachine\VendingSystem\bin\Debug\net6.0\VendingSystem.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\VendingMachine\VendingSystem\bin\Debug\net6.0\VendingSystem.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\VendingMachine\VendingSystem\bin\Debug\net6.0\VendingSystem.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\VendingMachine\VendingSystem\bin\Debug\net6.0\VendingSystem.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\VendingMachine\VendingSystem\obj\Debug\net6.0\VendingSystem.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\VendingMachine\VendingSystem\obj\Debug\net6.0\VendingSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\VendingMachine\VendingSystem\obj\Debug\net6.0\VendingSystem.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\VendingMachine\VendingSystem\obj\Debug\net6.0\VendingSystem.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\VendingMachine\VendingSystem\obj\Debug\net6.0\VendingSystem.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\VendingMachine\VendingSystem\obj\Debug\net6.0\VendingSystem.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\VendingMachine\VendingSystem\obj\Debug\net6.0\refint\VendingSystem.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\VendingMachine\VendingSystem\obj\Debug\net6.0\VendingSystem.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\VendingMachine\VendingSystem\obj\Debug\net6.0\VendingSystem.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\VendingMachine\VendingSystem\obj\Debug\net6.0\ref\VendingSystem.dll

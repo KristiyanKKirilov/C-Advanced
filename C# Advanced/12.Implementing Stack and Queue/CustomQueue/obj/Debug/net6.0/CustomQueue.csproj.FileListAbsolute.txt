@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\12.Implementing Stack and Queue\CustomQueue\bin\Debug\net6.0\CustomQueue.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\12.Implementing Stack and Queue\CustomQueue\bin\Debug\net6.0\CustomQueue.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\12.Implementing Stack and Queue\CustomQueue\bin\Debug\net6.0\CustomQueue.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\12.Implementing Stack and Queue\CustomQueue\bin\Debug\net6.0\CustomQueue.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\12.Implementing Stack and Queue\CustomQueue\bin\Debug\net6.0\CustomQueue.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\12.Implementing Stack and Queue\CustomQueue\obj\Debug\net6.0\CustomQueue.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\12.Implementing Stack and Queue\CustomQueue\obj\Debug\net6.0\CustomQueue.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\12.Implementing Stack and Queue\CustomQueue\obj\Debug\net6.0\CustomQueue.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\12.Implementing Stack and Queue\CustomQueue\obj\Debug\net6.0\CustomQueue.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\12.Implementing Stack and Queue\CustomQueue\obj\Debug\net6.0\CustomQueue.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\12.Implementing Stack and Queue\CustomQueue\obj\Debug\net6.0\CustomQueue.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\12.Implementing Stack and Queue\CustomQueue\obj\Debug\net6.0\refint\CustomQueue.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\12.Implementing Stack and Queue\CustomQueue\obj\Debug\net6.0\CustomQueue.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\12.Implementing Stack and Queue\CustomQueue\obj\Debug\net6.0\CustomQueue.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\12.Implementing Stack and Queue\CustomQueue\obj\Debug\net6.0\ref\CustomQueue.dll

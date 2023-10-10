@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\FolderSize\bin\Debug\net6.0\FolderSize.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\FolderSize\bin\Debug\net6.0\FolderSize.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\FolderSize\bin\Debug\net6.0\FolderSize.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\FolderSize\bin\Debug\net6.0\FolderSize.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\FolderSize\bin\Debug\net6.0\FolderSize.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\FolderSize\obj\Debug\net6.0\refint\FolderSize.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\FolderSize\obj\Debug\net6.0\ref\FolderSize.dll

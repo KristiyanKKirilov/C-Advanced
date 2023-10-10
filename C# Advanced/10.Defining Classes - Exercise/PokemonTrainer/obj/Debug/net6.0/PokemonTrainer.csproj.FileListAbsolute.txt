@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\PokemonTrainer\obj\Debug\net6.0\refint\PokemonTrainer.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\PokemonTrainer\obj\Debug\net6.0\ref\PokemonTrainer.dll

@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\08. List Of Predicates\bin\Debug\net6.0\08. List Of Predicates.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\08. List Of Predicates\bin\Debug\net6.0\08. List Of Predicates.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\08. List Of Predicates\bin\Debug\net6.0\08. List Of Predicates.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\08. List Of Predicates\bin\Debug\net6.0\08. List Of Predicates.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\08. List Of Predicates\bin\Debug\net6.0\08. List Of Predicates.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\08. List Of Predicates\obj\Debug\net6.0\08. List Of Predicates.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\08. List Of Predicates\obj\Debug\net6.0\08. List Of Predicates.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\08. List Of Predicates\obj\Debug\net6.0\08. List Of Predicates.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\08. List Of Predicates\obj\Debug\net6.0\08. List Of Predicates.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\08. List Of Predicates\obj\Debug\net6.0\08. List Of Predicates.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\08. List Of Predicates\obj\Debug\net6.0\08. List Of Predicates.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\08. List Of Predicates\obj\Debug\net6.0\refint\08. List Of Predicates.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\08. List Of Predicates\obj\Debug\net6.0\08. List Of Predicates.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\08. List Of Predicates\obj\Debug\net6.0\08. List Of Predicates.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\08. List Of Predicates\obj\Debug\net6.0\ref\08. List Of Predicates.dll

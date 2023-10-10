@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\ZipAndExtract\bin\Debug\net6.0\ZipAndExtract.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\ZipAndExtract\bin\Debug\net6.0\ZipAndExtract.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\ZipAndExtract\bin\Debug\net6.0\ZipAndExtract.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\ZipAndExtract\bin\Debug\net6.0\ZipAndExtract.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\ZipAndExtract\bin\Debug\net6.0\ZipAndExtract.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\ZipAndExtract\obj\Debug\net6.0\refint\ZipAndExtract.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\ZipAndExtract\obj\Debug\net6.0\ref\ZipAndExtract.dll

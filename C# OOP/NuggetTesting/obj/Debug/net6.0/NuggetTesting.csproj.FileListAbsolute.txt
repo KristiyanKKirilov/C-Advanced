@@ -1,0 +1,17 @@
+E:\Visual Studio Projects\Soft Uni\C# OOP\NuggetTesting\bin\Debug\net6.0\NuggetTesting.exe
+E:\Visual Studio Projects\Soft Uni\C# OOP\NuggetTesting\bin\Debug\net6.0\NuggetTesting.deps.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\NuggetTesting\bin\Debug\net6.0\NuggetTesting.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\NuggetTesting\bin\Debug\net6.0\NuggetTesting.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\NuggetTesting\bin\Debug\net6.0\NuggetTesting.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\NuggetTesting\bin\Debug\net6.0\LogForU.Core.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\NuggetTesting\obj\Debug\net6.0\NuggetTesting.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\NuggetTesting\obj\Debug\net6.0\NuggetTesting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# OOP\NuggetTesting\obj\Debug\net6.0\NuggetTesting.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\NuggetTesting\obj\Debug\net6.0\NuggetTesting.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# OOP\NuggetTesting\obj\Debug\net6.0\NuggetTesting.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\NuggetTesting\obj\Debug\net6.0\NuggetTesting.csproj.CopyComplete
+E:\Visual Studio Projects\Soft Uni\C# OOP\NuggetTesting\obj\Debug\net6.0\NuggetTesting.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\NuggetTesting\obj\Debug\net6.0\refint\NuggetTesting.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\NuggetTesting\obj\Debug\net6.0\NuggetTesting.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\NuggetTesting\obj\Debug\net6.0\NuggetTesting.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\NuggetTesting\obj\Debug\net6.0\ref\NuggetTesting.dll

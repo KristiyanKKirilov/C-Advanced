@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\EncryptOperation\bin\Debug\net6.0\EncryptOperation.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\EncryptOperation\bin\Debug\net6.0\EncryptOperation.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\EncryptOperation\bin\Debug\net6.0\EncryptOperation.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\EncryptOperation\bin\Debug\net6.0\EncryptOperation.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\EncryptOperation\bin\Debug\net6.0\EncryptOperation.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\EncryptOperation\obj\Debug\net6.0\EncryptOperation.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\EncryptOperation\obj\Debug\net6.0\EncryptOperation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\EncryptOperation\obj\Debug\net6.0\EncryptOperation.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\EncryptOperation\obj\Debug\net6.0\EncryptOperation.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\EncryptOperation\obj\Debug\net6.0\EncryptOperation.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\EncryptOperation\obj\Debug\net6.0\EncryptOperation.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\EncryptOperation\obj\Debug\net6.0\refint\EncryptOperation.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\EncryptOperation\obj\Debug\net6.0\EncryptOperation.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\EncryptOperation\obj\Debug\net6.0\EncryptOperation.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\05.Streams, Files and Directories - Lab\Skeleton-Lab\EncryptOperation\obj\Debug\net6.0\ref\EncryptOperation.dll

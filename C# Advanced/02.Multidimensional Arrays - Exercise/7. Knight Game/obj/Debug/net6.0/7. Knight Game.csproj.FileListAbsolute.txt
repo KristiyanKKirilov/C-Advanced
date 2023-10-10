@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\net6.0\7. Knight Game.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\net6.0\7. Knight Game.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\net6.0\7. Knight Game.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\net6.0\7. Knight Game.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\net6.0\7. Knight Game.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net6.0\7. Knight Game.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net6.0\7. Knight Game.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net6.0\7. Knight Game.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net6.0\7. Knight Game.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net6.0\7. Knight Game.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net6.0\7. Knight Game.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net6.0\refint\7. Knight Game.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net6.0\7. Knight Game.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net6.0\7. Knight Game.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net6.0\ref\7. Knight Game.dll

@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\SpeedRacing\bin\Debug\net6.0\SpeedRacing.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\SpeedRacing\bin\Debug\net6.0\SpeedRacing.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\SpeedRacing\bin\Debug\net6.0\SpeedRacing.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\SpeedRacing\bin\Debug\net6.0\SpeedRacing.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\SpeedRacing\bin\Debug\net6.0\SpeedRacing.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\SpeedRacing\obj\Debug\net6.0\SpeedRacing.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\SpeedRacing\obj\Debug\net6.0\SpeedRacing.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\SpeedRacing\obj\Debug\net6.0\SpeedRacing.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\SpeedRacing\obj\Debug\net6.0\SpeedRacing.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\SpeedRacing\obj\Debug\net6.0\SpeedRacing.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\SpeedRacing\obj\Debug\net6.0\SpeedRacing.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\SpeedRacing\obj\Debug\net6.0\refint\SpeedRacing.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\SpeedRacing\obj\Debug\net6.0\SpeedRacing.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\SpeedRacing\obj\Debug\net6.0\SpeedRacing.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\SpeedRacing\obj\Debug\net6.0\ref\SpeedRacing.dll

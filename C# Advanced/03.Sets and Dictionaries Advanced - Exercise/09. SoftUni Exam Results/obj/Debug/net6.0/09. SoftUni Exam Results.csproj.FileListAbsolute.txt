@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\net6.0\09. SoftUni Exam Results.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\net6.0\09. SoftUni Exam Results.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\net6.0\09. SoftUni Exam Results.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\net6.0\09. SoftUni Exam Results.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\net6.0\09. SoftUni Exam Results.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net6.0\09. SoftUni Exam Results.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net6.0\09. SoftUni Exam Results.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net6.0\09. SoftUni Exam Results.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net6.0\09. SoftUni Exam Results.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net6.0\09. SoftUni Exam Results.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net6.0\09. SoftUni Exam Results.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net6.0\refint\09. SoftUni Exam Results.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net6.0\09. SoftUni Exam Results.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net6.0\09. SoftUni Exam Results.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net6.0\ref\09. SoftUni Exam Results.dll

@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\Shapes\bin\Debug\net6.0\Shapes.exe
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\Shapes\bin\Debug\net6.0\Shapes.deps.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\Shapes\bin\Debug\net6.0\Shapes.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\Shapes\bin\Debug\net6.0\Shapes.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\Shapes\bin\Debug\net6.0\Shapes.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\Shapes\obj\Debug\net6.0\Shapes.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\Shapes\obj\Debug\net6.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\Shapes\obj\Debug\net6.0\Shapes.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\Shapes\obj\Debug\net6.0\Shapes.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\Shapes\obj\Debug\net6.0\refint\Shapes.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\Shapes\obj\Debug\net6.0\Shapes.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\Shapes\obj\Debug\net6.0\Shapes.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\Shapes\obj\Debug\net6.0\ref\Shapes.dll

@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.exe
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.deps.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\ShoppingSpree\obj\Debug\net6.0\refint\ShoppingSpree.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\04.Encapsulation - Exercise\ShoppingSpree\obj\Debug\net6.0\ref\ShoppingSpree.dll

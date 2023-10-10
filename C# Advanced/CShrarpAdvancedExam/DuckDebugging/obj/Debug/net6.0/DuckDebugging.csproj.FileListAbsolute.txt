@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\DuckDebugging\bin\Debug\net6.0\DuckDebugging.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\DuckDebugging\bin\Debug\net6.0\DuckDebugging.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\DuckDebugging\bin\Debug\net6.0\DuckDebugging.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\DuckDebugging\bin\Debug\net6.0\DuckDebugging.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\DuckDebugging\bin\Debug\net6.0\DuckDebugging.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\DuckDebugging\obj\Debug\net6.0\DuckDebugging.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\DuckDebugging\obj\Debug\net6.0\DuckDebugging.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\DuckDebugging\obj\Debug\net6.0\DuckDebugging.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\DuckDebugging\obj\Debug\net6.0\DuckDebugging.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\DuckDebugging\obj\Debug\net6.0\DuckDebugging.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\DuckDebugging\obj\Debug\net6.0\DuckDebugging.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\DuckDebugging\obj\Debug\net6.0\refint\DuckDebugging.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\DuckDebugging\obj\Debug\net6.0\DuckDebugging.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\DuckDebugging\obj\Debug\net6.0\DuckDebugging.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\DuckDebugging\obj\Debug\net6.0\ref\DuckDebugging.dll

@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\RecuriveSumOfArray\bin\Debug\net6.0\RecuriveSumOfArray.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\RecuriveSumOfArray\bin\Debug\net6.0\RecuriveSumOfArray.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\RecuriveSumOfArray\bin\Debug\net6.0\RecuriveSumOfArray.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\RecuriveSumOfArray\bin\Debug\net6.0\RecuriveSumOfArray.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\RecuriveSumOfArray\bin\Debug\net6.0\RecuriveSumOfArray.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\RecuriveSumOfArray\obj\Debug\net6.0\RecuriveSumOfArray.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\RecuriveSumOfArray\obj\Debug\net6.0\RecuriveSumOfArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\RecuriveSumOfArray\obj\Debug\net6.0\RecuriveSumOfArray.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\RecuriveSumOfArray\obj\Debug\net6.0\RecuriveSumOfArray.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\RecuriveSumOfArray\obj\Debug\net6.0\RecuriveSumOfArray.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\RecuriveSumOfArray\obj\Debug\net6.0\RecuriveSumOfArray.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\RecuriveSumOfArray\obj\Debug\net6.0\refint\RecuriveSumOfArray.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\RecuriveSumOfArray\obj\Debug\net6.0\RecuriveSumOfArray.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\RecuriveSumOfArray\obj\Debug\net6.0\RecuriveSumOfArray.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\RecuriveSumOfArray\obj\Debug\net6.0\ref\RecuriveSumOfArray.dll

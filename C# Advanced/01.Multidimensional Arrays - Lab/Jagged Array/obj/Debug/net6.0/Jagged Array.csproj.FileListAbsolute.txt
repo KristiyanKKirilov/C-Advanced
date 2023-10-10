@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Jagged Array\bin\Debug\net6.0\Jagged Array.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Jagged Array\bin\Debug\net6.0\Jagged Array.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Jagged Array\bin\Debug\net6.0\Jagged Array.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Jagged Array\bin\Debug\net6.0\Jagged Array.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Jagged Array\bin\Debug\net6.0\Jagged Array.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Jagged Array\obj\Debug\net6.0\Jagged Array.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Jagged Array\obj\Debug\net6.0\Jagged Array.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Jagged Array\obj\Debug\net6.0\Jagged Array.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Jagged Array\obj\Debug\net6.0\Jagged Array.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Jagged Array\obj\Debug\net6.0\Jagged Array.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Jagged Array\obj\Debug\net6.0\Jagged Array.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Jagged Array\obj\Debug\net6.0\refint\Jagged Array.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Jagged Array\obj\Debug\net6.0\Jagged Array.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Jagged Array\obj\Debug\net6.0\Jagged Array.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Jagged Array\obj\Debug\net6.0\ref\Jagged Array.dll

@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Experimenting\bin\Debug\net6.0\Experimenting.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Experimenting\bin\Debug\net6.0\Experimenting.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Experimenting\bin\Debug\net6.0\Experimenting.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Experimenting\bin\Debug\net6.0\Experimenting.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Experimenting\bin\Debug\net6.0\Experimenting.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Experimenting\obj\Debug\net6.0\Experimenting.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Experimenting\obj\Debug\net6.0\Experimenting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Experimenting\obj\Debug\net6.0\Experimenting.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Experimenting\obj\Debug\net6.0\Experimenting.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Experimenting\obj\Debug\net6.0\Experimenting.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Experimenting\obj\Debug\net6.0\Experimenting.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Experimenting\obj\Debug\net6.0\refint\Experimenting.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Experimenting\obj\Debug\net6.0\Experimenting.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Experimenting\obj\Debug\net6.0\Experimenting.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Experimenting\obj\Debug\net6.0\ref\Experimenting.dll

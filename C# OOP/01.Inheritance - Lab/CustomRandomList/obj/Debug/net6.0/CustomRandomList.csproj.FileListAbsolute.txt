@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# OOP\01.Inheritance - Lab\CustomRandomList\bin\Debug\net6.0\CustomRandomList.exe
+E:\Visual Studio Projects\Soft Uni\C# OOP\01.Inheritance - Lab\CustomRandomList\bin\Debug\net6.0\CustomRandomList.deps.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\01.Inheritance - Lab\CustomRandomList\bin\Debug\net6.0\CustomRandomList.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\01.Inheritance - Lab\CustomRandomList\bin\Debug\net6.0\CustomRandomList.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\01.Inheritance - Lab\CustomRandomList\bin\Debug\net6.0\CustomRandomList.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\01.Inheritance - Lab\CustomRandomList\obj\Debug\net6.0\CustomRandomList.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\01.Inheritance - Lab\CustomRandomList\obj\Debug\net6.0\CustomRandomList.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# OOP\01.Inheritance - Lab\CustomRandomList\obj\Debug\net6.0\CustomRandomList.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\01.Inheritance - Lab\CustomRandomList\obj\Debug\net6.0\CustomRandomList.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# OOP\01.Inheritance - Lab\CustomRandomList\obj\Debug\net6.0\CustomRandomList.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\01.Inheritance - Lab\CustomRandomList\obj\Debug\net6.0\CustomRandomList.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\01.Inheritance - Lab\CustomRandomList\obj\Debug\net6.0\refint\CustomRandomList.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\01.Inheritance - Lab\CustomRandomList\obj\Debug\net6.0\CustomRandomList.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\01.Inheritance - Lab\CustomRandomList\obj\Debug\net6.0\CustomRandomList.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\01.Inheritance - Lab\CustomRandomList\obj\Debug\net6.0\ref\CustomRandomList.dll

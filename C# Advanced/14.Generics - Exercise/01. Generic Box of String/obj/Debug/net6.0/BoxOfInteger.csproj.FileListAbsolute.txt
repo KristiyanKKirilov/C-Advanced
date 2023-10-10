@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\01. Generic Box of String\bin\Debug\net6.0\BoxOfInteger.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\01. Generic Box of String\bin\Debug\net6.0\BoxOfInteger.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\01. Generic Box of String\bin\Debug\net6.0\BoxOfInteger.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\01. Generic Box of String\bin\Debug\net6.0\BoxOfInteger.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\01. Generic Box of String\bin\Debug\net6.0\BoxOfInteger.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\01. Generic Box of String\obj\Debug\net6.0\BoxOfInteger.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\01. Generic Box of String\obj\Debug\net6.0\BoxOfInteger.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\01. Generic Box of String\obj\Debug\net6.0\BoxOfInteger.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\01. Generic Box of String\obj\Debug\net6.0\BoxOfInteger.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\01. Generic Box of String\obj\Debug\net6.0\BoxOfInteger.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\01. Generic Box of String\obj\Debug\net6.0\BoxOfInteger.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\01. Generic Box of String\obj\Debug\net6.0\refint\BoxOfInteger.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\01. Generic Box of String\obj\Debug\net6.0\BoxOfInteger.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\01. Generic Box of String\obj\Debug\net6.0\BoxOfInteger.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\01. Generic Box of String\obj\Debug\net6.0\ref\BoxOfInteger.dll

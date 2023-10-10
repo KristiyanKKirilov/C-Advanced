@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\11.Implementing Linked List\01.Implementing\bin\Debug\net6.0\01.Implementing.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\11.Implementing Linked List\01.Implementing\bin\Debug\net6.0\01.Implementing.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\11.Implementing Linked List\01.Implementing\bin\Debug\net6.0\01.Implementing.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\11.Implementing Linked List\01.Implementing\bin\Debug\net6.0\01.Implementing.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\11.Implementing Linked List\01.Implementing\bin\Debug\net6.0\01.Implementing.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\11.Implementing Linked List\01.Implementing\obj\Debug\net6.0\01.Implementing.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\11.Implementing Linked List\01.Implementing\obj\Debug\net6.0\01.Implementing.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\11.Implementing Linked List\01.Implementing\obj\Debug\net6.0\01.Implementing.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\11.Implementing Linked List\01.Implementing\obj\Debug\net6.0\01.Implementing.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\11.Implementing Linked List\01.Implementing\obj\Debug\net6.0\01.Implementing.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\11.Implementing Linked List\01.Implementing\obj\Debug\net6.0\01.Implementing.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\11.Implementing Linked List\01.Implementing\obj\Debug\net6.0\refint\01.Implementing.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\11.Implementing Linked List\01.Implementing\obj\Debug\net6.0\01.Implementing.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\11.Implementing Linked List\01.Implementing\obj\Debug\net6.0\01.Implementing.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\11.Implementing Linked List\01.Implementing\obj\Debug\net6.0\ref\01.Implementing.dll

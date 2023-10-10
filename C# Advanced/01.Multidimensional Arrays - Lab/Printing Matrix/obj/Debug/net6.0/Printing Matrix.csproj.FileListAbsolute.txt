@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Printing Matrix\bin\Debug\net6.0\Printing Matrix.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Printing Matrix\bin\Debug\net6.0\Printing Matrix.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Printing Matrix\bin\Debug\net6.0\Printing Matrix.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Printing Matrix\bin\Debug\net6.0\Printing Matrix.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Printing Matrix\bin\Debug\net6.0\Printing Matrix.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Printing Matrix\obj\Debug\net6.0\Printing Matrix.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Printing Matrix\obj\Debug\net6.0\Printing Matrix.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Printing Matrix\obj\Debug\net6.0\Printing Matrix.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Printing Matrix\obj\Debug\net6.0\Printing Matrix.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Printing Matrix\obj\Debug\net6.0\Printing Matrix.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Printing Matrix\obj\Debug\net6.0\Printing Matrix.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Printing Matrix\obj\Debug\net6.0\refint\Printing Matrix.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Printing Matrix\obj\Debug\net6.0\Printing Matrix.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Printing Matrix\obj\Debug\net6.0\Printing Matrix.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\Printing Matrix\obj\Debug\net6.0\ref\Printing Matrix.dll

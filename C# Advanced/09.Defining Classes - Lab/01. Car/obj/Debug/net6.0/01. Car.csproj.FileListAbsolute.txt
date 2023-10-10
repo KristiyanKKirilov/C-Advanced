@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\01. Car\bin\Debug\net6.0\01. Car.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\01. Car\bin\Debug\net6.0\01. Car.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\01. Car\bin\Debug\net6.0\01. Car.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\01. Car\bin\Debug\net6.0\01. Car.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\01. Car\bin\Debug\net6.0\01. Car.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\01. Car\obj\Debug\net6.0\refint\01. Car.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\01. Car\obj\Debug\net6.0\ref\01. Car.dll

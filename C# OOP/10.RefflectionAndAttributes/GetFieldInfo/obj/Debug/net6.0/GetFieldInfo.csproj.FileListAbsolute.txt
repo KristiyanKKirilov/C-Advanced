@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\GetFieldInfo\bin\Debug\net6.0\GetFieldInfo.exe
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\GetFieldInfo\bin\Debug\net6.0\GetFieldInfo.deps.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\GetFieldInfo\bin\Debug\net6.0\GetFieldInfo.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\GetFieldInfo\bin\Debug\net6.0\GetFieldInfo.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\GetFieldInfo\bin\Debug\net6.0\GetFieldInfo.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\GetFieldInfo\obj\Debug\net6.0\GetFieldInfo.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\GetFieldInfo\obj\Debug\net6.0\GetFieldInfo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\GetFieldInfo\obj\Debug\net6.0\GetFieldInfo.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\GetFieldInfo\obj\Debug\net6.0\GetFieldInfo.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\GetFieldInfo\obj\Debug\net6.0\GetFieldInfo.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\GetFieldInfo\obj\Debug\net6.0\GetFieldInfo.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\GetFieldInfo\obj\Debug\net6.0\refint\GetFieldInfo.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\GetFieldInfo\obj\Debug\net6.0\GetFieldInfo.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\GetFieldInfo\obj\Debug\net6.0\GetFieldInfo.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\GetFieldInfo\obj\Debug\net6.0\ref\GetFieldInfo.dll

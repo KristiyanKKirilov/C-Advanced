@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net6.0\03. Periodic Table.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net6.0\03. Periodic Table.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net6.0\03. Periodic Table.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net6.0\03. Periodic Table.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net6.0\03. Periodic Table.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net6.0\refint\03. Periodic Table.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net6.0\ref\03. Periodic Table.dll

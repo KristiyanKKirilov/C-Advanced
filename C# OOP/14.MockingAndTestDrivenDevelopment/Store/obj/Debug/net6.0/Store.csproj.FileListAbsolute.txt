@@ -1,0 +1,17 @@
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Store\bin\Debug\net6.0\Store.exe
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Store\bin\Debug\net6.0\Store.deps.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Store\bin\Debug\net6.0\Store.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Store\bin\Debug\net6.0\Store.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Store\bin\Debug\net6.0\Store.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Store\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Store\obj\Debug\net6.0\Store.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Store\obj\Debug\net6.0\Store.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Store\obj\Debug\net6.0\Store.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Store\obj\Debug\net6.0\Store.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Store\obj\Debug\net6.0\Store.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Store\obj\Debug\net6.0\Store.csproj.CopyComplete
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Store\obj\Debug\net6.0\Store.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Store\obj\Debug\net6.0\refint\Store.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Store\obj\Debug\net6.0\Store.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Store\obj\Debug\net6.0\Store.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Store\obj\Debug\net6.0\ref\Store.dll

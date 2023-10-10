@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\CustomAttributes\bin\Debug\net6.0\CustomAttributes.exe
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\CustomAttributes\bin\Debug\net6.0\CustomAttributes.deps.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\CustomAttributes\bin\Debug\net6.0\CustomAttributes.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\CustomAttributes\bin\Debug\net6.0\CustomAttributes.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\CustomAttributes\bin\Debug\net6.0\CustomAttributes.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\CustomAttributes\obj\Debug\net6.0\CustomAttributes.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\CustomAttributes\obj\Debug\net6.0\CustomAttributes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\CustomAttributes\obj\Debug\net6.0\CustomAttributes.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\CustomAttributes\obj\Debug\net6.0\CustomAttributes.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\CustomAttributes\obj\Debug\net6.0\CustomAttributes.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\CustomAttributes\obj\Debug\net6.0\CustomAttributes.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\CustomAttributes\obj\Debug\net6.0\refint\CustomAttributes.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\CustomAttributes\obj\Debug\net6.0\CustomAttributes.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\CustomAttributes\obj\Debug\net6.0\CustomAttributes.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\CustomAttributes\obj\Debug\net6.0\ref\CustomAttributes.dll

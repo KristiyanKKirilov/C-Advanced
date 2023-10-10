@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\TheSquirrel\bin\Debug\net6.0\TheSquirrel.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\TheSquirrel\bin\Debug\net6.0\TheSquirrel.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\TheSquirrel\bin\Debug\net6.0\TheSquirrel.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\TheSquirrel\bin\Debug\net6.0\TheSquirrel.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\TheSquirrel\bin\Debug\net6.0\TheSquirrel.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\TheSquirrel\obj\Debug\net6.0\TheSquirrel.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\TheSquirrel\obj\Debug\net6.0\TheSquirrel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\TheSquirrel\obj\Debug\net6.0\TheSquirrel.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\TheSquirrel\obj\Debug\net6.0\TheSquirrel.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\TheSquirrel\obj\Debug\net6.0\TheSquirrel.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\TheSquirrel\obj\Debug\net6.0\TheSquirrel.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\TheSquirrel\obj\Debug\net6.0\refint\TheSquirrel.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\TheSquirrel\obj\Debug\net6.0\TheSquirrel.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\TheSquirrel\obj\Debug\net6.0\TheSquirrel.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\TheSquirrel\obj\Debug\net6.0\ref\TheSquirrel.dll

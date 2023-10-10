@@ -1,0 +1,8 @@
+C:\Visual Studio Projects\Implementing Stack and Queue\CustomDictionary\bin\Debug\CustomDictionary.exe.config
+C:\Visual Studio Projects\Implementing Stack and Queue\CustomDictionary\bin\Debug\CustomDictionary.exe
+C:\Visual Studio Projects\Implementing Stack and Queue\CustomDictionary\bin\Debug\CustomDictionary.pdb
+C:\Visual Studio Projects\Implementing Stack and Queue\CustomDictionary\obj\Debug\CustomDictionary.csproj.AssemblyReference.cache
+C:\Visual Studio Projects\Implementing Stack and Queue\CustomDictionary\obj\Debug\CustomDictionary.csproj.SuggestedBindingRedirects.cache
+C:\Visual Studio Projects\Implementing Stack and Queue\CustomDictionary\obj\Debug\CustomDictionary.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects\Implementing Stack and Queue\CustomDictionary\obj\Debug\CustomDictionary.exe
+C:\Visual Studio Projects\Implementing Stack and Queue\CustomDictionary\obj\Debug\CustomDictionary.pdb

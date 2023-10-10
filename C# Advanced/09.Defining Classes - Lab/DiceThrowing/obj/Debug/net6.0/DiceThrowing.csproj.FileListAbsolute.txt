@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\DiceThrowing\bin\Debug\net6.0\DiceThrowing.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\DiceThrowing\bin\Debug\net6.0\DiceThrowing.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\DiceThrowing\bin\Debug\net6.0\DiceThrowing.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\DiceThrowing\bin\Debug\net6.0\DiceThrowing.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\DiceThrowing\bin\Debug\net6.0\DiceThrowing.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\DiceThrowing\obj\Debug\net6.0\DiceThrowing.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\DiceThrowing\obj\Debug\net6.0\DiceThrowing.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\DiceThrowing\obj\Debug\net6.0\DiceThrowing.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\DiceThrowing\obj\Debug\net6.0\DiceThrowing.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\DiceThrowing\obj\Debug\net6.0\DiceThrowing.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\DiceThrowing\obj\Debug\net6.0\DiceThrowing.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\DiceThrowing\obj\Debug\net6.0\refint\DiceThrowing.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\DiceThrowing\obj\Debug\net6.0\DiceThrowing.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\DiceThrowing\obj\Debug\net6.0\DiceThrowing.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\DiceThrowing\obj\Debug\net6.0\ref\DiceThrowing.dll

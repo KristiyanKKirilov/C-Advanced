@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\07. Parking Lot\bin\Debug\net6.0\07. Parking Lot.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\07. Parking Lot\bin\Debug\net6.0\07. Parking Lot.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\07. Parking Lot\bin\Debug\net6.0\07. Parking Lot.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\07. Parking Lot\bin\Debug\net6.0\07. Parking Lot.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\07. Parking Lot\bin\Debug\net6.0\07. Parking Lot.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\07. Parking Lot\obj\Debug\net6.0\07. Parking Lot.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\07. Parking Lot\obj\Debug\net6.0\07. Parking Lot.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\07. Parking Lot\obj\Debug\net6.0\07. Parking Lot.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\07. Parking Lot\obj\Debug\net6.0\07. Parking Lot.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\07. Parking Lot\obj\Debug\net6.0\07. Parking Lot.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\07. Parking Lot\obj\Debug\net6.0\07. Parking Lot.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\07. Parking Lot\obj\Debug\net6.0\refint\07. Parking Lot.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\07. Parking Lot\obj\Debug\net6.0\07. Parking Lot.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\07. Parking Lot\obj\Debug\net6.0\07. Parking Lot.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\07. Parking Lot\obj\Debug\net6.0\ref\07. Parking Lot.dll

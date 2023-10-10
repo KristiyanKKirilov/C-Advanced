@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\net6.0\05. Applied Arithmetics.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\net6.0\05. Applied Arithmetics.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\net6.0\05. Applied Arithmetics.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\net6.0\05. Applied Arithmetics.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\net6.0\05. Applied Arithmetics.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net6.0\05. Applied Arithmetics.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net6.0\05. Applied Arithmetics.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net6.0\05. Applied Arithmetics.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net6.0\05. Applied Arithmetics.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net6.0\05. Applied Arithmetics.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net6.0\05. Applied Arithmetics.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net6.0\refint\05. Applied Arithmetics.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net6.0\05. Applied Arithmetics.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net6.0\05. Applied Arithmetics.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net6.0\ref\05. Applied Arithmetics.dll

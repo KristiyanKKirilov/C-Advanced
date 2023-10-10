@@ -1,0 +1,8 @@
+C:\Visual Studio Projects\Implementing Stack and Queue\Implementing Stack\bin\Debug\Implementing Stack.exe.config
+C:\Visual Studio Projects\Implementing Stack and Queue\Implementing Stack\bin\Debug\Implementing Stack.exe
+C:\Visual Studio Projects\Implementing Stack and Queue\Implementing Stack\bin\Debug\Implementing Stack.pdb
+C:\Visual Studio Projects\Implementing Stack and Queue\Implementing Stack\obj\Debug\Implementing Stack.csproj.AssemblyReference.cache
+C:\Visual Studio Projects\Implementing Stack and Queue\Implementing Stack\obj\Debug\Implementing Stack.csproj.SuggestedBindingRedirects.cache
+C:\Visual Studio Projects\Implementing Stack and Queue\Implementing Stack\obj\Debug\Implementing Stack.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects\Implementing Stack and Queue\Implementing Stack\obj\Debug\Implementing Stack.exe
+C:\Visual Studio Projects\Implementing Stack and Queue\Implementing Stack\obj\Debug\Implementing Stack.pdb

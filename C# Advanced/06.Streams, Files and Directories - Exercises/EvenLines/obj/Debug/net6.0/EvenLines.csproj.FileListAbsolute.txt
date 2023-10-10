@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\EvenLines\obj\Debug\net6.0\EvenLines.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\EvenLines\obj\Debug\net6.0\EvenLines.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\EvenLines\obj\Debug\net6.0\EvenLines.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\EvenLines\obj\Debug\net6.0\EvenLines.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\EvenLines\obj\Debug\net6.0\EvenLines.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\EvenLines\bin\Debug\net6.0\EvenLines.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\EvenLines\bin\Debug\net6.0\EvenLines.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\EvenLines\bin\Debug\net6.0\EvenLines.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\EvenLines\bin\Debug\net6.0\EvenLines.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\EvenLines\bin\Debug\net6.0\EvenLines.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\EvenLines\obj\Debug\net6.0\EvenLines.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\EvenLines\obj\Debug\net6.0\refint\EvenLines.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\EvenLines\obj\Debug\net6.0\EvenLines.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\EvenLines\obj\Debug\net6.0\EvenLines.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\06.Streams, Files and Directories - Exercises\EvenLines\obj\Debug\net6.0\ref\EvenLines.dll

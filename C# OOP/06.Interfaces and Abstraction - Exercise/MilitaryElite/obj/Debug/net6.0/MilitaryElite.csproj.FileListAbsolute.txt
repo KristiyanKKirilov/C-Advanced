@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\MilitaryElite\bin\Debug\net6.0\MilitaryElite.exe
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\MilitaryElite\bin\Debug\net6.0\MilitaryElite.deps.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\MilitaryElite\bin\Debug\net6.0\MilitaryElite.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\MilitaryElite\bin\Debug\net6.0\MilitaryElite.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\MilitaryElite\bin\Debug\net6.0\MilitaryElite.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\net6.0\MilitaryElite.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\net6.0\MilitaryElite.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\net6.0\MilitaryElite.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\net6.0\MilitaryElite.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\net6.0\MilitaryElite.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\net6.0\MilitaryElite.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\net6.0\refint\MilitaryElite.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\net6.0\MilitaryElite.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\net6.0\MilitaryElite.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\net6.0\ref\MilitaryElite.dll

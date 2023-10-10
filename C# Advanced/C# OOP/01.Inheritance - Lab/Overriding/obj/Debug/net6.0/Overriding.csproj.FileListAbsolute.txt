@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# OOP\01.Inheritance - Lab\Overriding\bin\Debug\net6.0\Overriding.exe
+E:\Visual Studio Projects\Soft Uni\C# OOP\01.Inheritance - Lab\Overriding\bin\Debug\net6.0\Overriding.deps.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\01.Inheritance - Lab\Overriding\bin\Debug\net6.0\Overriding.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\01.Inheritance - Lab\Overriding\bin\Debug\net6.0\Overriding.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\01.Inheritance - Lab\Overriding\bin\Debug\net6.0\Overriding.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\01.Inheritance - Lab\Overriding\obj\Debug\net6.0\Overriding.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\01.Inheritance - Lab\Overriding\obj\Debug\net6.0\Overriding.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# OOP\01.Inheritance - Lab\Overriding\obj\Debug\net6.0\Overriding.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\01.Inheritance - Lab\Overriding\obj\Debug\net6.0\Overriding.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# OOP\01.Inheritance - Lab\Overriding\obj\Debug\net6.0\Overriding.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\01.Inheritance - Lab\Overriding\obj\Debug\net6.0\Overriding.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\01.Inheritance - Lab\Overriding\obj\Debug\net6.0\refint\Overriding.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\01.Inheritance - Lab\Overriding\obj\Debug\net6.0\Overriding.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\01.Inheritance - Lab\Overriding\obj\Debug\net6.0\Overriding.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\01.Inheritance - Lab\Overriding\obj\Debug\net6.0\ref\Overriding.dll

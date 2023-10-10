@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\IteratorsAndComparators\bin\Debug\net6.0\IteratorsAndComparators.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\IteratorsAndComparators\bin\Debug\net6.0\IteratorsAndComparators.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\IteratorsAndComparators\bin\Debug\net6.0\IteratorsAndComparators.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\IteratorsAndComparators\bin\Debug\net6.0\IteratorsAndComparators.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\IteratorsAndComparators\bin\Debug\net6.0\IteratorsAndComparators.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\IteratorsAndComparators\obj\Debug\net6.0\refint\IteratorsAndComparators.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\IteratorsAndComparators\obj\Debug\net6.0\ref\IteratorsAndComparators.dll

@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# OOP\12.Unit Testing - Lab\01. Test Axe\Skeleton\bin\Debug\net6.0\Skeleton.exe
+E:\Visual Studio Projects\Soft Uni\C# OOP\12.Unit Testing - Lab\01. Test Axe\Skeleton\bin\Debug\net6.0\Skeleton.deps.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\12.Unit Testing - Lab\01. Test Axe\Skeleton\bin\Debug\net6.0\Skeleton.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\12.Unit Testing - Lab\01. Test Axe\Skeleton\bin\Debug\net6.0\Skeleton.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\12.Unit Testing - Lab\01. Test Axe\Skeleton\bin\Debug\net6.0\Skeleton.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\12.Unit Testing - Lab\01. Test Axe\Skeleton\obj\Debug\net6.0\Skeleton.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\12.Unit Testing - Lab\01. Test Axe\Skeleton\obj\Debug\net6.0\Skeleton.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# OOP\12.Unit Testing - Lab\01. Test Axe\Skeleton\obj\Debug\net6.0\Skeleton.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\12.Unit Testing - Lab\01. Test Axe\Skeleton\obj\Debug\net6.0\Skeleton.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# OOP\12.Unit Testing - Lab\01. Test Axe\Skeleton\obj\Debug\net6.0\Skeleton.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\12.Unit Testing - Lab\01. Test Axe\Skeleton\obj\Debug\net6.0\Skeleton.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\12.Unit Testing - Lab\01. Test Axe\Skeleton\obj\Debug\net6.0\refint\Skeleton.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\12.Unit Testing - Lab\01. Test Axe\Skeleton\obj\Debug\net6.0\Skeleton.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\12.Unit Testing - Lab\01. Test Axe\Skeleton\obj\Debug\net6.0\Skeleton.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\12.Unit Testing - Lab\01. Test Axe\Skeleton\obj\Debug\net6.0\ref\Skeleton.dll

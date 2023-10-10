@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\Person\bin\Debug\net6.0\Person.exe
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\Person\bin\Debug\net6.0\Person.deps.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\Person\bin\Debug\net6.0\Person.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\Person\bin\Debug\net6.0\Person.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\Person\bin\Debug\net6.0\Person.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\Person\obj\Debug\net6.0\Person.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\Person\obj\Debug\net6.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\Person\obj\Debug\net6.0\Person.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\Person\obj\Debug\net6.0\Person.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\Person\obj\Debug\net6.0\Person.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\Person\obj\Debug\net6.0\Person.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\Person\obj\Debug\net6.0\refint\Person.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\Person\obj\Debug\net6.0\Person.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\Person\obj\Debug\net6.0\Person.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\02.Inheritance - Exercise\Person\obj\Debug\net6.0\ref\Person.dll

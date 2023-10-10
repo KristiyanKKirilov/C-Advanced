@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\Stealer\bin\Debug\net6.0\Stealer.exe
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\Stealer\bin\Debug\net6.0\Stealer.deps.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\Stealer\bin\Debug\net6.0\Stealer.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\Stealer\bin\Debug\net6.0\Stealer.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\Stealer\bin\Debug\net6.0\Stealer.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\Stealer\obj\Debug\net6.0\Stealer.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\Stealer\obj\Debug\net6.0\Stealer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\Stealer\obj\Debug\net6.0\Stealer.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\Stealer\obj\Debug\net6.0\Stealer.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\Stealer\obj\Debug\net6.0\Stealer.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\Stealer\obj\Debug\net6.0\Stealer.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\Stealer\obj\Debug\net6.0\refint\Stealer.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\Stealer\obj\Debug\net6.0\Stealer.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\Stealer\obj\Debug\net6.0\Stealer.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\Stealer\obj\Debug\net6.0\ref\Stealer.dll

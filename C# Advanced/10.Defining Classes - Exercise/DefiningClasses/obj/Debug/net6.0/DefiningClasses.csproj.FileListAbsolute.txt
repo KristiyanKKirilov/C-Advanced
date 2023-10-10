@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\DefiningClasses\bin\Debug\net6.0\DefiningClasses.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\DefiningClasses\bin\Debug\net6.0\DefiningClasses.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\DefiningClasses\bin\Debug\net6.0\DefiningClasses.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\DefiningClasses\bin\Debug\net6.0\DefiningClasses.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\DefiningClasses\bin\Debug\net6.0\DefiningClasses.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\DefiningClasses\obj\Debug\net6.0\DefiningClasses.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\DefiningClasses\obj\Debug\net6.0\DefiningClasses.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\DefiningClasses\obj\Debug\net6.0\DefiningClasses.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\DefiningClasses\obj\Debug\net6.0\DefiningClasses.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\DefiningClasses\obj\Debug\net6.0\DefiningClasses.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\DefiningClasses\obj\Debug\net6.0\DefiningClasses.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\DefiningClasses\obj\Debug\net6.0\refint\DefiningClasses.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\DefiningClasses\obj\Debug\net6.0\DefiningClasses.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\DefiningClasses\obj\Debug\net6.0\DefiningClasses.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\10.Defining Classes - Exercise\DefiningClasses\obj\Debug\net6.0\ref\DefiningClasses.dll

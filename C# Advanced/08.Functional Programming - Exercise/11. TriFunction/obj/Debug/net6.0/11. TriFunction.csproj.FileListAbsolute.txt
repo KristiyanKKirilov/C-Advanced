@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\11. TriFunction\bin\Debug\net6.0\11. TriFunction.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\11. TriFunction\bin\Debug\net6.0\11. TriFunction.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\11. TriFunction\bin\Debug\net6.0\11. TriFunction.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\11. TriFunction\bin\Debug\net6.0\11. TriFunction.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\11. TriFunction\bin\Debug\net6.0\11. TriFunction.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\11. TriFunction\obj\Debug\net6.0\11. TriFunction.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\11. TriFunction\obj\Debug\net6.0\11. TriFunction.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\11. TriFunction\obj\Debug\net6.0\11. TriFunction.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\11. TriFunction\obj\Debug\net6.0\11. TriFunction.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\11. TriFunction\obj\Debug\net6.0\11. TriFunction.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\11. TriFunction\obj\Debug\net6.0\11. TriFunction.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\11. TriFunction\obj\Debug\net6.0\refint\11. TriFunction.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\11. TriFunction\obj\Debug\net6.0\11. TriFunction.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\11. TriFunction\obj\Debug\net6.0\11. TriFunction.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\08.Functional Programming - Exercise\11. TriFunction\obj\Debug\net6.0\ref\11. TriFunction.dll

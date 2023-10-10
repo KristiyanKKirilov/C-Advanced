@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# OOP\09.Exceptions and Error Handling - Lab\01. Square Root\bin\Debug\net6.0\01. Square Root.exe
+E:\Visual Studio Projects\Soft Uni\C# OOP\09.Exceptions and Error Handling - Lab\01. Square Root\bin\Debug\net6.0\01. Square Root.deps.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\09.Exceptions and Error Handling - Lab\01. Square Root\bin\Debug\net6.0\01. Square Root.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\09.Exceptions and Error Handling - Lab\01. Square Root\bin\Debug\net6.0\01. Square Root.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\09.Exceptions and Error Handling - Lab\01. Square Root\bin\Debug\net6.0\01. Square Root.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\09.Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\net6.0\01. Square Root.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\09.Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\net6.0\01. Square Root.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# OOP\09.Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\net6.0\01. Square Root.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\09.Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\net6.0\01. Square Root.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# OOP\09.Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\net6.0\01. Square Root.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\09.Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\net6.0\01. Square Root.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\09.Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\net6.0\refint\01. Square Root.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\09.Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\net6.0\01. Square Root.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\09.Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\net6.0\01. Square Root.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\09.Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\net6.0\ref\01. Square Root.dll

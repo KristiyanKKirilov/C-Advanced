@@ -1,0 +1,8 @@
+C:\Visual Studio Projects\Implementing Stack and Queue\GenericConstraints\bin\Debug\GenericConstraints.exe.config
+C:\Visual Studio Projects\Implementing Stack and Queue\GenericConstraints\bin\Debug\GenericConstraints.exe
+C:\Visual Studio Projects\Implementing Stack and Queue\GenericConstraints\bin\Debug\GenericConstraints.pdb
+C:\Visual Studio Projects\Implementing Stack and Queue\GenericConstraints\obj\Debug\GenericConstraints.csproj.AssemblyReference.cache
+C:\Visual Studio Projects\Implementing Stack and Queue\GenericConstraints\obj\Debug\GenericConstraints.csproj.SuggestedBindingRedirects.cache
+C:\Visual Studio Projects\Implementing Stack and Queue\GenericConstraints\obj\Debug\GenericConstraints.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects\Implementing Stack and Queue\GenericConstraints\obj\Debug\GenericConstraints.exe
+C:\Visual Studio Projects\Implementing Stack and Queue\GenericConstraints\obj\Debug\GenericConstraints.pdb

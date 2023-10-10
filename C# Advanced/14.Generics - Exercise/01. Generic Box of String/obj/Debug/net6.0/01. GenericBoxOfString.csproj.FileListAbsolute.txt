@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\01. Generic Box of String\bin\Debug\net6.0\01. GenericBoxOfString.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\01. Generic Box of String\bin\Debug\net6.0\01. GenericBoxOfString.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\01. Generic Box of String\bin\Debug\net6.0\01. GenericBoxOfString.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\01. Generic Box of String\bin\Debug\net6.0\01. GenericBoxOfString.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\01. Generic Box of String\bin\Debug\net6.0\01. GenericBoxOfString.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\01. Generic Box of String\obj\Debug\net6.0\01. GenericBoxOfString.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\01. Generic Box of String\obj\Debug\net6.0\01. GenericBoxOfString.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\01. Generic Box of String\obj\Debug\net6.0\01. GenericBoxOfString.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\01. Generic Box of String\obj\Debug\net6.0\01. GenericBoxOfString.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\01. Generic Box of String\obj\Debug\net6.0\01. GenericBoxOfString.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\01. Generic Box of String\obj\Debug\net6.0\01. GenericBoxOfString.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\01. Generic Box of String\obj\Debug\net6.0\refint\01. GenericBoxOfString.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\01. Generic Box of String\obj\Debug\net6.0\01. GenericBoxOfString.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\01. Generic Box of String\obj\Debug\net6.0\01. GenericBoxOfString.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\01. Generic Box of String\obj\Debug\net6.0\ref\01. GenericBoxOfString.dll

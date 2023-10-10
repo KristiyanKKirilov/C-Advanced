@@ -1,0 +1,8 @@
+C:\Visual Studio Projects\Implementing Stack and Queue\WhyConstraints\bin\Debug\WhyConstraints.exe.config
+C:\Visual Studio Projects\Implementing Stack and Queue\WhyConstraints\bin\Debug\WhyConstraints.exe
+C:\Visual Studio Projects\Implementing Stack and Queue\WhyConstraints\bin\Debug\WhyConstraints.pdb
+C:\Visual Studio Projects\Implementing Stack and Queue\WhyConstraints\obj\Debug\WhyConstraints.csproj.AssemblyReference.cache
+C:\Visual Studio Projects\Implementing Stack and Queue\WhyConstraints\obj\Debug\WhyConstraints.csproj.SuggestedBindingRedirects.cache
+C:\Visual Studio Projects\Implementing Stack and Queue\WhyConstraints\obj\Debug\WhyConstraints.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects\Implementing Stack and Queue\WhyConstraints\obj\Debug\WhyConstraints.exe
+C:\Visual Studio Projects\Implementing Stack and Queue\WhyConstraints\obj\Debug\WhyConstraints.pdb

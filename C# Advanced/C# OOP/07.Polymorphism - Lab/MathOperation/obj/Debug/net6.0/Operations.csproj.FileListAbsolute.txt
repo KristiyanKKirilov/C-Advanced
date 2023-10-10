@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\MathOperation\bin\Debug\net6.0\Operations.exe
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\MathOperation\bin\Debug\net6.0\Operations.deps.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\MathOperation\bin\Debug\net6.0\Operations.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\MathOperation\bin\Debug\net6.0\Operations.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\MathOperation\bin\Debug\net6.0\Operations.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\MathOperation\obj\Debug\net6.0\Operations.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\MathOperation\obj\Debug\net6.0\Operations.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\MathOperation\obj\Debug\net6.0\Operations.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\MathOperation\obj\Debug\net6.0\Operations.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\MathOperation\obj\Debug\net6.0\Operations.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\MathOperation\obj\Debug\net6.0\Operations.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\MathOperation\obj\Debug\net6.0\refint\Operations.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\MathOperation\obj\Debug\net6.0\Operations.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\MathOperation\obj\Debug\net6.0\Operations.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\MathOperation\obj\Debug\net6.0\ref\Operations.dll

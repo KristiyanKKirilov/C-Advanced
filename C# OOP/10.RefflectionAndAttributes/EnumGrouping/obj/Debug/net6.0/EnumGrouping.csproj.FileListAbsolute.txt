@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\EnumGrouping\bin\Debug\net6.0\EnumGrouping.exe
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\EnumGrouping\bin\Debug\net6.0\EnumGrouping.deps.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\EnumGrouping\bin\Debug\net6.0\EnumGrouping.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\EnumGrouping\bin\Debug\net6.0\EnumGrouping.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\EnumGrouping\bin\Debug\net6.0\EnumGrouping.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\EnumGrouping\obj\Debug\net6.0\EnumGrouping.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\EnumGrouping\obj\Debug\net6.0\EnumGrouping.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\EnumGrouping\obj\Debug\net6.0\EnumGrouping.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\EnumGrouping\obj\Debug\net6.0\EnumGrouping.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\EnumGrouping\obj\Debug\net6.0\EnumGrouping.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\EnumGrouping\obj\Debug\net6.0\EnumGrouping.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\EnumGrouping\obj\Debug\net6.0\refint\EnumGrouping.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\EnumGrouping\obj\Debug\net6.0\EnumGrouping.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\EnumGrouping\obj\Debug\net6.0\EnumGrouping.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\10.RefflectionAndAttributes\EnumGrouping\obj\Debug\net6.0\ref\EnumGrouping.dll

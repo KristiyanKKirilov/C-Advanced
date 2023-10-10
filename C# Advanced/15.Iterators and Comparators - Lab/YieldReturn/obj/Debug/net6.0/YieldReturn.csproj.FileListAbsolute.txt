@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\YieldReturn\bin\Debug\net6.0\YieldReturn.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\YieldReturn\bin\Debug\net6.0\YieldReturn.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\YieldReturn\bin\Debug\net6.0\YieldReturn.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\YieldReturn\bin\Debug\net6.0\YieldReturn.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\YieldReturn\bin\Debug\net6.0\YieldReturn.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\YieldReturn\obj\Debug\net6.0\YieldReturn.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\YieldReturn\obj\Debug\net6.0\YieldReturn.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\YieldReturn\obj\Debug\net6.0\YieldReturn.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\YieldReturn\obj\Debug\net6.0\YieldReturn.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\YieldReturn\obj\Debug\net6.0\YieldReturn.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\YieldReturn\obj\Debug\net6.0\YieldReturn.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\YieldReturn\obj\Debug\net6.0\refint\YieldReturn.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\YieldReturn\obj\Debug\net6.0\YieldReturn.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\YieldReturn\obj\Debug\net6.0\YieldReturn.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\15.Iterators and Comparators - Lab\YieldReturn\obj\Debug\net6.0\ref\YieldReturn.dll

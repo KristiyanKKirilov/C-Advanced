@@ -1,0 +1,8 @@
+C:\Visual Studio Projects\Implementing Stack and Queue\GenericMethods1\bin\Debug\GenericMethods1.exe.config
+C:\Visual Studio Projects\Implementing Stack and Queue\GenericMethods1\bin\Debug\GenericMethods1.exe
+C:\Visual Studio Projects\Implementing Stack and Queue\GenericMethods1\bin\Debug\GenericMethods1.pdb
+C:\Visual Studio Projects\Implementing Stack and Queue\GenericMethods1\obj\Debug\GenericMethods1.csproj.AssemblyReference.cache
+C:\Visual Studio Projects\Implementing Stack and Queue\GenericMethods1\obj\Debug\GenericMethods1.csproj.SuggestedBindingRedirects.cache
+C:\Visual Studio Projects\Implementing Stack and Queue\GenericMethods1\obj\Debug\GenericMethods1.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects\Implementing Stack and Queue\GenericMethods1\obj\Debug\GenericMethods1.exe
+C:\Visual Studio Projects\Implementing Stack and Queue\GenericMethods1\obj\Debug\GenericMethods1.pdb

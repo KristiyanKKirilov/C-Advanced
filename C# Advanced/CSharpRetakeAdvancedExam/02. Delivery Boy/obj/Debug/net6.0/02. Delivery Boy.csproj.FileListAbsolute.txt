@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\02. Delivery Boy\bin\Debug\net6.0\02. Delivery Boy.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\02. Delivery Boy\bin\Debug\net6.0\02. Delivery Boy.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\02. Delivery Boy\bin\Debug\net6.0\02. Delivery Boy.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\02. Delivery Boy\bin\Debug\net6.0\02. Delivery Boy.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\02. Delivery Boy\bin\Debug\net6.0\02. Delivery Boy.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\02. Delivery Boy\obj\Debug\net6.0\02. Delivery Boy.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\02. Delivery Boy\obj\Debug\net6.0\02. Delivery Boy.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\02. Delivery Boy\obj\Debug\net6.0\02. Delivery Boy.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\02. Delivery Boy\obj\Debug\net6.0\02. Delivery Boy.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\02. Delivery Boy\obj\Debug\net6.0\02. Delivery Boy.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\02. Delivery Boy\obj\Debug\net6.0\02. Delivery Boy.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\02. Delivery Boy\obj\Debug\net6.0\refint\02. Delivery Boy.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\02. Delivery Boy\obj\Debug\net6.0\02. Delivery Boy.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\02. Delivery Boy\obj\Debug\net6.0\02. Delivery Boy.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CSharpRetakeAdvancedExam\02. Delivery Boy\obj\Debug\net6.0\ref\02. Delivery Boy.dll

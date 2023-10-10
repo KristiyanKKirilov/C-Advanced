@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\Telephony\bin\Debug\net6.0\Telephony.exe
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\Telephony\bin\Debug\net6.0\Telephony.deps.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\Telephony\bin\Debug\net6.0\Telephony.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\Telephony\bin\Debug\net6.0\Telephony.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\Telephony\bin\Debug\net6.0\Telephony.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\Telephony\obj\Debug\net6.0\Telephony.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\Telephony\obj\Debug\net6.0\Telephony.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\Telephony\obj\Debug\net6.0\Telephony.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\Telephony\obj\Debug\net6.0\Telephony.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\Telephony\obj\Debug\net6.0\Telephony.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\Telephony\obj\Debug\net6.0\Telephony.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\Telephony\obj\Debug\net6.0\refint\Telephony.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\Telephony\obj\Debug\net6.0\Telephony.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\Telephony\obj\Debug\net6.0\Telephony.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\06.Interfaces and Abstraction - Exercise\Telephony\obj\Debug\net6.0\ref\Telephony.dll

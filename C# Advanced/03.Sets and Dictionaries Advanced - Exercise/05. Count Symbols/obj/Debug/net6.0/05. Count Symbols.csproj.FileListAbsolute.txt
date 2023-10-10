@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\net6.0\05. Count Symbols.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\net6.0\05. Count Symbols.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\net6.0\05. Count Symbols.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\net6.0\05. Count Symbols.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\net6.0\05. Count Symbols.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net6.0\refint\05. Count Symbols.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net6.0\ref\05. Count Symbols.dll

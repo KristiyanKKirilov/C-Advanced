@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Mocking\bin\Debug\net6.0\Promotions.exe
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Mocking\bin\Debug\net6.0\Promotions.deps.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Mocking\bin\Debug\net6.0\Promotions.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Mocking\bin\Debug\net6.0\Promotions.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Mocking\bin\Debug\net6.0\Promotions.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Mocking\obj\Debug\net6.0\Promotions.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Mocking\obj\Debug\net6.0\Promotions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Mocking\obj\Debug\net6.0\Promotions.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Mocking\obj\Debug\net6.0\Promotions.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Mocking\obj\Debug\net6.0\Promotions.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Mocking\obj\Debug\net6.0\Promotions.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Mocking\obj\Debug\net6.0\refint\Promotions.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Mocking\obj\Debug\net6.0\Promotions.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Mocking\obj\Debug\net6.0\Promotions.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\14.MockingAndTestDrivenDevelopment\Mocking\obj\Debug\net6.0\ref\Promotions.dll

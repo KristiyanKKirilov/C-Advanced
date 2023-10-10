@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\net6.0\06. Record Unique Names.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\net6.0\06. Record Unique Names.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\net6.0\06. Record Unique Names.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\net6.0\06. Record Unique Names.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\net6.0\06. Record Unique Names.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net6.0\06. Record Unique Names.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net6.0\06. Record Unique Names.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net6.0\06. Record Unique Names.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net6.0\06. Record Unique Names.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net6.0\06. Record Unique Names.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net6.0\06. Record Unique Names.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net6.0\refint\06. Record Unique Names.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net6.0\06. Record Unique Names.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net6.0\06. Record Unique Names.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net6.0\ref\06. Record Unique Names.dll

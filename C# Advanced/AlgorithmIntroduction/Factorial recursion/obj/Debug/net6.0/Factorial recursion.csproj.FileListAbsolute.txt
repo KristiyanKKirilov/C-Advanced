@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\Factorial recursion\bin\Debug\net6.0\Factorial recursion.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\Factorial recursion\bin\Debug\net6.0\Factorial recursion.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\Factorial recursion\bin\Debug\net6.0\Factorial recursion.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\Factorial recursion\bin\Debug\net6.0\Factorial recursion.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\Factorial recursion\bin\Debug\net6.0\Factorial recursion.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\Factorial recursion\obj\Debug\net6.0\Factorial recursion.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\Factorial recursion\obj\Debug\net6.0\Factorial recursion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\Factorial recursion\obj\Debug\net6.0\Factorial recursion.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\Factorial recursion\obj\Debug\net6.0\Factorial recursion.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\Factorial recursion\obj\Debug\net6.0\Factorial recursion.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\Factorial recursion\obj\Debug\net6.0\Factorial recursion.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\Factorial recursion\obj\Debug\net6.0\refint\Factorial recursion.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\Factorial recursion\obj\Debug\net6.0\Factorial recursion.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\Factorial recursion\obj\Debug\net6.0\Factorial recursion.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\Factorial recursion\obj\Debug\net6.0\ref\Factorial recursion.dll

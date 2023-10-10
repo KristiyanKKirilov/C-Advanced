@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\Froggy\bin\Debug\net6.0\Froggy.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\Froggy\bin\Debug\net6.0\Froggy.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\Froggy\bin\Debug\net6.0\Froggy.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\Froggy\bin\Debug\net6.0\Froggy.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\Froggy\bin\Debug\net6.0\Froggy.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\Froggy\obj\Debug\net6.0\Froggy.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\Froggy\obj\Debug\net6.0\Froggy.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\Froggy\obj\Debug\net6.0\Froggy.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\Froggy\obj\Debug\net6.0\Froggy.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\Froggy\obj\Debug\net6.0\Froggy.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\Froggy\obj\Debug\net6.0\Froggy.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\Froggy\obj\Debug\net6.0\refint\Froggy.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\Froggy\obj\Debug\net6.0\Froggy.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\Froggy\obj\Debug\net6.0\Froggy.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\Froggy\obj\Debug\net6.0\ref\Froggy.dll

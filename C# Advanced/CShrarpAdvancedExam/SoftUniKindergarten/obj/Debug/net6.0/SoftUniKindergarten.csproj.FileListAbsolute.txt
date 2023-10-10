@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\SoftUniKindergarten\bin\Debug\net6.0\SoftUniKindergarten.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\SoftUniKindergarten\bin\Debug\net6.0\SoftUniKindergarten.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\SoftUniKindergarten\bin\Debug\net6.0\SoftUniKindergarten.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\SoftUniKindergarten\bin\Debug\net6.0\SoftUniKindergarten.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\SoftUniKindergarten\bin\Debug\net6.0\SoftUniKindergarten.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\SoftUniKindergarten\obj\Debug\net6.0\SoftUniKindergarten.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\SoftUniKindergarten\obj\Debug\net6.0\SoftUniKindergarten.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\SoftUniKindergarten\obj\Debug\net6.0\SoftUniKindergarten.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\SoftUniKindergarten\obj\Debug\net6.0\SoftUniKindergarten.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\SoftUniKindergarten\obj\Debug\net6.0\SoftUniKindergarten.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\SoftUniKindergarten\obj\Debug\net6.0\SoftUniKindergarten.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\SoftUniKindergarten\obj\Debug\net6.0\refint\SoftUniKindergarten.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\SoftUniKindergarten\obj\Debug\net6.0\SoftUniKindergarten.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\SoftUniKindergarten\obj\Debug\net6.0\SoftUniKindergarten.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\SoftUniKindergarten\obj\Debug\net6.0\ref\SoftUniKindergarten.dll

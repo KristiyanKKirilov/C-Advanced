@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\EqualityLogic\bin\Debug\net6.0\EqualityLogic.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\EqualityLogic\bin\Debug\net6.0\EqualityLogic.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\EqualityLogic\bin\Debug\net6.0\EqualityLogic.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\EqualityLogic\bin\Debug\net6.0\EqualityLogic.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\EqualityLogic\bin\Debug\net6.0\EqualityLogic.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\EqualityLogic\obj\Debug\net6.0\EqualityLogic.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\EqualityLogic\obj\Debug\net6.0\EqualityLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\EqualityLogic\obj\Debug\net6.0\EqualityLogic.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\EqualityLogic\obj\Debug\net6.0\EqualityLogic.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\EqualityLogic\obj\Debug\net6.0\EqualityLogic.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\EqualityLogic\obj\Debug\net6.0\EqualityLogic.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\EqualityLogic\obj\Debug\net6.0\refint\EqualityLogic.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\EqualityLogic\obj\Debug\net6.0\EqualityLogic.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\EqualityLogic\obj\Debug\net6.0\EqualityLogic.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\16.Iterators and Comparators - Exercise\EqualityLogic\obj\Debug\net6.0\ref\EqualityLogic.dll

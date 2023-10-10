@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\ClothesMagazine\bin\Debug\net6.0\ClothesMagazine.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\ClothesMagazine\bin\Debug\net6.0\ClothesMagazine.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\ClothesMagazine\bin\Debug\net6.0\ClothesMagazine.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\ClothesMagazine\bin\Debug\net6.0\ClothesMagazine.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\ClothesMagazine\bin\Debug\net6.0\ClothesMagazine.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\ClothesMagazine\obj\Debug\net6.0\ClothesMagazine.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\ClothesMagazine\obj\Debug\net6.0\ClothesMagazine.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\ClothesMagazine\obj\Debug\net6.0\ClothesMagazine.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\ClothesMagazine\obj\Debug\net6.0\ClothesMagazine.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\ClothesMagazine\obj\Debug\net6.0\ClothesMagazine.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\ClothesMagazine\obj\Debug\net6.0\ClothesMagazine.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\ClothesMagazine\obj\Debug\net6.0\refint\ClothesMagazine.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\ClothesMagazine\obj\Debug\net6.0\ClothesMagazine.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\ClothesMagazine\obj\Debug\net6.0\ClothesMagazine.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\CShrarpAdvancedExam\ClothesMagazine\obj\Debug\net6.0\ref\ClothesMagazine.dll

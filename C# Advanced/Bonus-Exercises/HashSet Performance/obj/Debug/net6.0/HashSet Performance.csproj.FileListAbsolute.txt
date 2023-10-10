@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Bonus-Exercises\HashSet Performance\bin\Debug\net6.0\HashSet Performance.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Bonus-Exercises\HashSet Performance\bin\Debug\net6.0\HashSet Performance.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Bonus-Exercises\HashSet Performance\bin\Debug\net6.0\HashSet Performance.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Bonus-Exercises\HashSet Performance\bin\Debug\net6.0\HashSet Performance.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Bonus-Exercises\HashSet Performance\bin\Debug\net6.0\HashSet Performance.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Bonus-Exercises\HashSet Performance\obj\Debug\net6.0\HashSet Performance.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Bonus-Exercises\HashSet Performance\obj\Debug\net6.0\HashSet Performance.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Bonus-Exercises\HashSet Performance\obj\Debug\net6.0\HashSet Performance.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Bonus-Exercises\HashSet Performance\obj\Debug\net6.0\HashSet Performance.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Bonus-Exercises\HashSet Performance\obj\Debug\net6.0\HashSet Performance.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Bonus-Exercises\HashSet Performance\obj\Debug\net6.0\HashSet Performance.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Bonus-Exercises\HashSet Performance\obj\Debug\net6.0\refint\HashSet Performance.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Bonus-Exercises\HashSet Performance\obj\Debug\net6.0\HashSet Performance.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Bonus-Exercises\HashSet Performance\obj\Debug\net6.0\HashSet Performance.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Bonus-Exercises\HashSet Performance\obj\Debug\net6.0\ref\HashSet Performance.dll

@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\enumsss\bin\Debug\net6.0\enumsss.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\enumsss\bin\Debug\net6.0\enumsss.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\enumsss\bin\Debug\net6.0\enumsss.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\enumsss\bin\Debug\net6.0\enumsss.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\enumsss\bin\Debug\net6.0\enumsss.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\enumsss\obj\Debug\net6.0\enumsss.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\enumsss\obj\Debug\net6.0\enumsss.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\enumsss\obj\Debug\net6.0\enumsss.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\enumsss\obj\Debug\net6.0\enumsss.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\enumsss\obj\Debug\net6.0\enumsss.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\enumsss\obj\Debug\net6.0\enumsss.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\enumsss\obj\Debug\net6.0\refint\enumsss.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\enumsss\obj\Debug\net6.0\enumsss.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\enumsss\obj\Debug\net6.0\enumsss.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\enumsss\obj\Debug\net6.0\ref\enumsss.dll

@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\AccesModifiers\bin\Debug\net6.0\AccesModifiers.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\AccesModifiers\bin\Debug\net6.0\AccesModifiers.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\AccesModifiers\bin\Debug\net6.0\AccesModifiers.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\AccesModifiers\bin\Debug\net6.0\AccesModifiers.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\AccesModifiers\bin\Debug\net6.0\AccesModifiers.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\AccesModifiers\obj\Debug\net6.0\AccesModifiers.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\AccesModifiers\obj\Debug\net6.0\AccesModifiers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\AccesModifiers\obj\Debug\net6.0\AccesModifiers.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\AccesModifiers\obj\Debug\net6.0\AccesModifiers.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\AccesModifiers\obj\Debug\net6.0\AccesModifiers.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\AccesModifiers\obj\Debug\net6.0\AccesModifiers.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\AccesModifiers\obj\Debug\net6.0\refint\AccesModifiers.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\AccesModifiers\obj\Debug\net6.0\AccesModifiers.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\AccesModifiers\obj\Debug\net6.0\AccesModifiers.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\09.Defining Classes - Lab\AccesModifiers\obj\Debug\net6.0\ref\AccesModifiers.dll

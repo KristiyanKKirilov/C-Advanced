@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\net6.0\03. Largest 3 Numbers.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\net6.0\03. Largest 3 Numbers.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\net6.0\03. Largest 3 Numbers.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\net6.0\03. Largest 3 Numbers.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\net6.0\03. Largest 3 Numbers.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net6.0\03. Largest 3 Numbers.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net6.0\03. Largest 3 Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net6.0\03. Largest 3 Numbers.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net6.0\03. Largest 3 Numbers.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net6.0\03. Largest 3 Numbers.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net6.0\03. Largest 3 Numbers.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net6.0\refint\03. Largest 3 Numbers.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net6.0\03. Largest 3 Numbers.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net6.0\03. Largest 3 Numbers.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net6.0\ref\03. Largest 3 Numbers.dll

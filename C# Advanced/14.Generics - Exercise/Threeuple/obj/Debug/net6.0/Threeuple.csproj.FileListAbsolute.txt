@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\Threeuple\bin\Debug\net6.0\Threeuple.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\Threeuple\bin\Debug\net6.0\Threeuple.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\Threeuple\bin\Debug\net6.0\Threeuple.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\Threeuple\bin\Debug\net6.0\Threeuple.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\Threeuple\bin\Debug\net6.0\Threeuple.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\Threeuple\obj\Debug\net6.0\Threeuple.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\Threeuple\obj\Debug\net6.0\Threeuple.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\Threeuple\obj\Debug\net6.0\Threeuple.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\Threeuple\obj\Debug\net6.0\Threeuple.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\Threeuple\obj\Debug\net6.0\Threeuple.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\Threeuple\obj\Debug\net6.0\Threeuple.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\Threeuple\obj\Debug\net6.0\refint\Threeuple.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\Threeuple\obj\Debug\net6.0\Threeuple.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\Threeuple\obj\Debug\net6.0\Threeuple.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\14.Generics - Exercise\Threeuple\obj\Debug\net6.0\ref\Threeuple.dll

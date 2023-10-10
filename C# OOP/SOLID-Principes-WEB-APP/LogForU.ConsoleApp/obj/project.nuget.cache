@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hO81hH3AtVxdXGXeYvNNsx7mbkHoBmgwV6B8AlOwJ+P4ijqnhojEpGV7GJIYBarX2kkVJ64Bn2BmdRPMxzzD8g==",
+  "success": true,
+  "projectFilePath": "E:\\Visual Studio Projects\\Soft Uni\\C# OOP\\SOLID-Principes-WEB-APP\\LogForU.ConsoleApp\\LogForU.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ABC\\.nuget\\packages\\logforu.core\\1.0.0\\logforu.core.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

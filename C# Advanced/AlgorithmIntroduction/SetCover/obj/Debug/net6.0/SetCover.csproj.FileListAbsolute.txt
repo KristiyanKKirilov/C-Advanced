@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\SetCover\bin\Debug\net6.0\SetCover.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\SetCover\bin\Debug\net6.0\SetCover.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\SetCover\bin\Debug\net6.0\SetCover.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\SetCover\bin\Debug\net6.0\SetCover.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\SetCover\bin\Debug\net6.0\SetCover.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\SetCover\obj\Debug\net6.0\SetCover.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\SetCover\obj\Debug\net6.0\SetCover.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\SetCover\obj\Debug\net6.0\SetCover.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\SetCover\obj\Debug\net6.0\SetCover.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\SetCover\obj\Debug\net6.0\SetCover.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\SetCover\obj\Debug\net6.0\SetCover.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\SetCover\obj\Debug\net6.0\refint\SetCover.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\SetCover\obj\Debug\net6.0\SetCover.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\SetCover\obj\Debug\net6.0\SetCover.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\AlgorithmIntroduction\SetCover\obj\Debug\net6.0\ref\SetCover.dll

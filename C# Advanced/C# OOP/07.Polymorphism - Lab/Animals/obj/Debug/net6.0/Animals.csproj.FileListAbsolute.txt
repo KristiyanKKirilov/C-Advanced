@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\Animals\bin\Debug\net6.0\Animals.exe
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\Animals\bin\Debug\net6.0\Animals.deps.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\Animals\bin\Debug\net6.0\Animals.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\Animals\bin\Debug\net6.0\Animals.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\Animals\bin\Debug\net6.0\Animals.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\Animals\obj\Debug\net6.0\Animals.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\Animals\obj\Debug\net6.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\Animals\obj\Debug\net6.0\Animals.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\Animals\obj\Debug\net6.0\Animals.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\Animals\obj\Debug\net6.0\Animals.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\Animals\obj\Debug\net6.0\Animals.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\Animals\obj\Debug\net6.0\refint\Animals.dll
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\Animals\obj\Debug\net6.0\Animals.pdb
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\Animals\obj\Debug\net6.0\Animals.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# OOP\07.Polymorphism - Lab\Animals\obj\Debug\net6.0\ref\Animals.dll

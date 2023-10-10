@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net6.0\3. Primary Diagonal.exe
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net6.0\3. Primary Diagonal.deps.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net6.0\3. Primary Diagonal.runtimeconfig.json
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net6.0\3. Primary Diagonal.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net6.0\3. Primary Diagonal.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net6.0\3. Primary Diagonal.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net6.0\3. Primary Diagonal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net6.0\3. Primary Diagonal.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net6.0\3. Primary Diagonal.AssemblyInfo.cs
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net6.0\3. Primary Diagonal.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net6.0\3. Primary Diagonal.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net6.0\refint\3. Primary Diagonal.dll
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net6.0\3. Primary Diagonal.pdb
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net6.0\3. Primary Diagonal.genruntimeconfig.cache
+E:\Visual Studio Projects\Soft Uni\C# Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net6.0\ref\3. Primary Diagonal.dll
